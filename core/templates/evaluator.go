@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/functions"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/functions"
 	"github.com/mudler/xlog"
 )
 

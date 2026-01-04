@@ -12,12 +12,12 @@ import (
 	"github.com/mudler/xlog"
 
 	gguf "github.com/gpustack/gguf-parser-go"
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/oci"
-	"github.com/mudler/LocalAI/pkg/system"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/oci"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 )
 
 type UtilCMD struct {

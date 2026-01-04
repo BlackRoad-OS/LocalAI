@@ -4,12 +4,12 @@ import (
 	"strings"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/core/services"
-	"github.com/mudler/LocalAI/internal"
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
+	"github.com/BlackRoad-OS/LocalAI/internal"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 func WelcomeEndpoint(appConfig *config.ApplicationConfig,

@@ -8,7 +8,7 @@ icon = "newspaper"
 
 Release notes have been now moved completely over Github releases. 
 
-You can see the release notes [here](https://github.com/mudler/LocalAI/releases).
+You can see the release notes [here](https://github.com/BlackRoad-OS/LocalAI/releases).
 
 
 ## 04-12-2023: __v2.0.0__
@@ -33,11 +33,11 @@ New:
 Due to the python dependencies size of images grew in size. 
 If you still want to use smaller images without python dependencies, you can use the corresponding images tags ending with `-core`.
 
-Full changelog: https://github.com/mudler/LocalAI/releases/tag/v2.0.0
+Full changelog: https://github.com/BlackRoad-OS/LocalAI/releases/tag/v2.0.0
 
 ## 30-10-2023: __v1.40.0__
 
-This release is a preparation before v2 - the efforts now will be to refactor, polish and add new backends. Follow up on: https://github.com/mudler/LocalAI/issues/1126
+This release is a preparation before v2 - the efforts now will be to refactor, polish and add new backends. Follow up on: https://github.com/BlackRoad-OS/LocalAI/issues/1126
 
 ## Hot topics
 
@@ -51,7 +51,7 @@ This release bring support for AMD thanks to @65a .  See more details in {{< pr 
 
 Thanks to @jespino now the local-ai binary has more subcommands allowing to manage the gallery or try out directly inferencing, check it out!
 
-[Release notes](https://github.com/mudler/LocalAI/releases/tag/v1.40.0)
+[Release notes](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.40.0)
 
 ## 25-09-2023: __v1.30.0__
 
@@ -59,7 +59,7 @@ This is an exciting LocalAI release! Besides bug-fixes and enhancements this rel
 
 Check out the documentation for vllm [here](https://localai.io/model-compatibility/vllm/) and Vall-E-X [here](https://localai.io/model-compatibility/vall-e-x/)
 
-[Release notes](https://github.com/mudler/LocalAI/releases/tag/v1.30.0)
+[Release notes](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.30.0)
 
 ## 26-08-2023: __v1.25.0__
 
@@ -98,8 +98,8 @@ Thanks to the community efforts now we have a new [how-to website](https://io.mi
 
 #### 💡 More examples!
 
-- Open source autopilot? See the new addition by {{< github "gruberdev" >}} in our [examples](https://github.com/mudler/LocalAI-examples/tree/main/continue) on how to use Continue with LocalAI!
-- Want to try LocalAI with Insomnia? Check out the new [Insomnia example](https://github.com/mudler/LocalAI-examples/tree/main/insomnia) by {{< github "dave-gray101" >}}!
+- Open source autopilot? See the new addition by {{< github "gruberdev" >}} in our [examples](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/continue) on how to use Continue with LocalAI!
+- Want to try LocalAI with Insomnia? Check out the new [Insomnia example](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/insomnia) by {{< github "dave-gray101" >}}!
 
 #### LocalAGI in discord!
 
@@ -130,7 +130,7 @@ Did you know that we have now few cool bots in our Discord? come check them out!
 
 Join our Discord community! our vibrant community is growing fast, and we are always happy to help!  https://discord.gg/uJAeKSAGDy
 
-The full changelog is available [here](https://github.com/go-skynet/LocalAI/releases/tag/v.1.25.0).
+The full changelog is available [here](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v.1.25.0).
 
 --- 
 
@@ -182,7 +182,7 @@ Now by default the model-gallery repositories are configured in the container im
 
 See it [here in action](https://github.com/mudler/LocalAGI/assets/2420543/9ba43b82-dec5-432a-bdb9-8318e7db59a4) planning a trip for San Francisco! 
 
-The full changelog is available [here](https://github.com/go-skynet/LocalAI/releases/tag/v.1.24.0).
+The full changelog is available [here](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v.1.24.0).
 
 --- 
 
@@ -206,7 +206,7 @@ From this release [OpenAI functions]({{%relref "features/openai-functions" %}}) 
 
  {{% /notice %}}
 
-The full [changelog is available here](https://github.com/go-skynet/LocalAI/releases/tag/v1.23.0)
+The full [changelog is available here](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.23.0)
 
 --- 
 
@@ -257,7 +257,7 @@ And here when it actually picks to reply to the user instead of using functions!
 
 Note: functions are supported only with `llama.cpp`-compatible models.
 
-A full example is available here: https://github.com/mudler/LocalAI-examples/tree/main/functions
+A full example is available here: https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/functions
 
 ### gRPC backends
 
@@ -273,7 +273,7 @@ The former, ggml-based backend has been renamed to `falcon-ggml`.
 
 From this release the default behavior of images has changed. Compilation is not triggered on start automatically, to recompile `local-ai` from scratch on start and switch back to the old behavior, you can set `REBUILD=true` in the environment variables. Rebuilding can be necessary if your CPU and/or architecture is old and the pre-compiled binaries are not compatible with your platform. See the [build section]({{%relref "installation/build" %}}) for more information.
 
-[Full release changelog](https://github.com/go-skynet/LocalAI/releases/tag/v1.21.0)
+[Full release changelog](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.21.0)
 
 --- 
 
@@ -326,7 +326,7 @@ Now `LocalAI` uses [piper](https://github.com/rhasspy/piper) and [go-piper](http
 
 To setup audio models, you can use the new galleries, or setup the models manually as described in [the API section of the documentation]({{%relref "features/text-to-audio" %}}).
 
-You can check the full changelog in [Github](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.0)
+You can check the full changelog in [Github](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.20.0)
 
 --- 
 
@@ -376,16 +376,16 @@ We now support a vast variety of models, while being backward compatible with pr
 
 ### Examples
 
-- 💡 [AutoGPT](https://github.com/mudler/LocalAI-examples/tree/main/autoGPT) example ( [mudler](https://github.com/mudler) )
-- 💡 [PrivateGPT](https://github.com/mudler/LocalAI-examples/tree/main/privateGPT) example ( [mudler](https://github.com/mudler) )
-- 💡 [Flowise](https://github.com/mudler/LocalAI-examples/tree/main/flowise) example ( [mudler](https://github.com/mudler) )
+- 💡 [AutoGPT](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/autoGPT) example ( [mudler](https://github.com/mudler) )
+- 💡 [PrivateGPT](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/privateGPT) example ( [mudler](https://github.com/mudler) )
+- 💡 [Flowise](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/flowise) example ( [mudler](https://github.com/mudler) )
 
 Two new projects offer now direct integration with LocalAI!
 
 - [Flowise](https://github.com/FlowiseAI/Flowise/pull/123)
 - [Mods](https://github.com/charmbracelet/mods)
 
-[Full release changelog](https://github.com/go-skynet/LocalAI/releases/tag/v1.18.0)
+[Full release changelog](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v1.18.0)
 
 --- 
 
@@ -431,7 +431,7 @@ See also the [advanced section]({{%relref "advanced" %}}).
 
 ## Previous 
 
-- 23-05-2023: __v1.15.0__ released. `go-gpt2.cpp` backend got renamed to `go-ggml-transformers.cpp` updated including https://github.com/ggerganov/llama.cpp/pull/1508 which breaks compatibility with older models. This impacts RedPajama, GptNeoX, MPT(not `gpt4all-mpt`), Dolly, GPT2 and Starcoder based models. [Binary releases available](https://github.com/go-skynet/LocalAI/releases), various fixes, including {{< pr "341" >}} .
+- 23-05-2023: __v1.15.0__ released. `go-gpt2.cpp` backend got renamed to `go-ggml-transformers.cpp` updated including https://github.com/ggerganov/llama.cpp/pull/1508 which breaks compatibility with older models. This impacts RedPajama, GptNeoX, MPT(not `gpt4all-mpt`), Dolly, GPT2 and Starcoder based models. [Binary releases available](https://github.com/BlackRoad-OS/LocalAI/releases), various fixes, including {{< pr "341" >}} .
 - 21-05-2023: __v1.14.0__ released. Minor updates to the `/models/apply` endpoint, `llama.cpp` backend updated including https://github.com/ggerganov/llama.cpp/pull/1508 which breaks compatibility with older models. `gpt4all` is still compatible with the old format. 
 - 19-05-2023: __v1.13.0__ released! 🔥🔥 updates to the `gpt4all` and `llama` backend, consolidated CUDA support ( {{< pr "310" >}} thanks to @bubthegreat and @Thireus ), preliminar support for [installing models via API]({{%relref "advanced#" %}}).
 - 17-05-2023:  __v1.12.0__ released! 🔥🔥 Minor fixes, plus CUDA ({{< pr "258" >}}) support for `llama.cpp`-compatible models and image generation ({{< pr "272" >}}).
@@ -441,11 +441,11 @@ Now LocalAI can generate images too:
 
 | mode=0                                                                                                                | mode=1 (winograd/sgemm)                                                                                                                |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| ![b6441997879](https://github.com/go-skynet/LocalAI/assets/2420543/d50af51c-51b7-4f39-b6c2-bf04c403894c)              | ![winograd2](https://github.com/go-skynet/LocalAI/assets/2420543/1935a69a-ecce-4afc-a099-1ac28cb649b3)                |
+| ![b6441997879](https://github.com/BlackRoad-OS/LocalAI/assets/2420543/d50af51c-51b7-4f39-b6c2-bf04c403894c)              | ![winograd2](https://github.com/BlackRoad-OS/LocalAI/assets/2420543/1935a69a-ecce-4afc-a099-1ac28cb649b3)                |
 
 - 14-05-2023: __v1.11.1__ released! `rwkv` backend patch release
 - 13-05-2023: __v1.11.0__ released! 🔥 Updated `llama.cpp` bindings: This update includes a breaking change in the model files ( https://github.com/ggerganov/llama.cpp/pull/1405 ) - old models should still work with the `gpt4all-llama` backend.
-- 12-05-2023: __v1.10.0__ released! 🔥🔥 Updated `gpt4all` bindings. Added support for GPTNeox (experimental), RedPajama (experimental), Starcoder (experimental), Replit (experimental), MosaicML MPT. Also now `embeddings` endpoint supports tokens arrays. See the [langchain-chroma](https://github.com/mudler/LocalAI-examples/tree/main/langchain-chroma) example! Note - this update does NOT include https://github.com/ggerganov/llama.cpp/pull/1405 which makes models incompatible.
+- 12-05-2023: __v1.10.0__ released! 🔥🔥 Updated `gpt4all` bindings. Added support for GPTNeox (experimental), RedPajama (experimental), Starcoder (experimental), Replit (experimental), MosaicML MPT. Also now `embeddings` endpoint supports tokens arrays. See the [langchain-chroma](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/langchain-chroma) example! Note - this update does NOT include https://github.com/ggerganov/llama.cpp/pull/1405 which makes models incompatible.
 - 11-05-2023: __v1.9.0__ released! 🔥 Important whisper updates ( {{< pr "233" >}} {{< pr "229" >}} ) and extended gpt4all model families support ( {{< pr "232" >}} ). Redpajama/dolly experimental ( {{< pr "214" >}} )
 - 10-05-2023: __v1.8.0__ released! 🔥 Added support for fast and accurate embeddings with `bert.cpp` ( {{< pr "222" >}} )
 - 09-05-2023: Added experimental support for transcriptions endpoint ( {{< pr "211" >}} )

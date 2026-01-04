@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/lithammer/fuzzysearch/fuzzy"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/system"
-	"github.com/mudler/LocalAI/pkg/xsync"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsync"
 	"github.com/mudler/xlog"
 
 	"gopkg.in/yaml.v2"

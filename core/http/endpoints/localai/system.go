@@ -2,9 +2,9 @@ package localai
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 // SystemInformations returns the system informations

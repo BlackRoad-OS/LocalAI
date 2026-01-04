@@ -4,7 +4,7 @@ package main
 import (
 	"flag"
 
-	grpc "github.com/mudler/LocalAI/pkg/grpc"
+	grpc "github.com/BlackRoad-OS/LocalAI/pkg/grpc"
 )
 
 var (

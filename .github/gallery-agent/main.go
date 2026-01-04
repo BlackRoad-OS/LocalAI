@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	hfapi "github.com/mudler/LocalAI/pkg/huggingface-api"
+	hfapi "github.com/BlackRoad-OS/LocalAI/pkg/huggingface-api"
 )
 
 // ProcessedModelFile represents a processed model file with additional metadata

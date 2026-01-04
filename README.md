@@ -122,11 +122,11 @@ For more installation options, see [Installer Options](https://localai.io/instal
 
 ### macOS Download:
 
-<a href="https://github.com/mudler/LocalAI/releases/latest/download/LocalAI.dmg">
+<a href="https://github.com/BlackRoad-OS/LocalAI/releases/latest/download/LocalAI.dmg">
   <img src="https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download LocalAI for macOS"/>
 </a>
 
-> Note: the DMGs are not signed by Apple as quarantined. See https://github.com/mudler/LocalAI/issues/6268 for a workaround, fix is tracked here: https://github.com/mudler/LocalAI/issues/6244
+> Note: the DMGs are not signed by Apple as quarantined. See https://github.com/BlackRoad-OS/LocalAI/issues/6268 for a workaround, fix is tracked here: https://github.com/BlackRoad-OS/LocalAI/issues/6244
 
 Or run with docker:
 
@@ -240,7 +240,7 @@ For more information, see [💻 Getting started](https://localai.io/basics/getti
 - Apr 2025: [LocalAGI](https://github.com/mudler/LocalAGI) and [LocalRecall](https://github.com/mudler/LocalRecall) join the LocalAI family stack.
 - Apr 2025: WebUI overhaul, AIO images updates
 - Feb 2025: Backend cleanup, Breaking changes, new backends (kokoro, OutelTTS, faster-whisper), Nvidia L4T images
-- Jan 2025: LocalAI model release: https://huggingface.co/mudler/LocalAI-functioncall-phi-4-v0.3, SANA support in diffusers: https://github.com/BlackRoad-OS/LocalAI/pull/4603
+- Jan 2025: LocalAI model release: https://huggingface.co/BlackRoad-OS/LocalAI-functioncall-phi-4-v0.3, SANA support in diffusers: https://github.com/BlackRoad-OS/LocalAI/pull/4603
 - Dec 2024: stablediffusion.cpp backend (ggml) added ( https://github.com/BlackRoad-OS/LocalAI/pull/4289 )
 - Nov 2024: Bark.cpp backend added ( https://github.com/BlackRoad-OS/LocalAI/pull/4287 )
 - Nov 2024: Voice activity detection models (**VAD**) added to the API: https://github.com/BlackRoad-OS/LocalAI/pull/4204
@@ -338,7 +338,7 @@ Build and deploy custom containers:
 
 WebUIs:
 - https://github.com/Jirubizu/localai-admin
-- https://github.com/go-skynet/LocalAI-frontend
+- https://github.com/BlackRoad-OS/LocalAI-frontend
 - QA-Pilot(An interactive chat project that leverages LocalAI LLMs for rapid understanding and navigation of GitHub code repository) https://github.com/reid41/QA-Pilot
 
 Agentic Libraries:
@@ -417,7 +417,7 @@ A huge thank you to our generous sponsors who support this project covering CI e
     <img height="200" src="https://github.com/user-attachments/assets/72eab1dd-8b93-4fc0-9ade-84db49f24962">
   </a>
   <a href="https://www.premai.io/" target="blank">
-    <img height="200" src="https://github.com/mudler/LocalAI/assets/2420543/42e4ca83-661e-4f79-8e46-ae43689683d6"> <br>
+    <img height="200" src="https://github.com/BlackRoad-OS/LocalAI/assets/2420543/42e4ca83-661e-4f79-8e46-ae43689683d6"> <br>
   </a>
 </p>
 

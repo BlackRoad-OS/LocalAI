@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	pb "github.com/mudler/LocalAI/pkg/grpc/proto"
+	pb "github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
 )
 
 type AIModel interface {

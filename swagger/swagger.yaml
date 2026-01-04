@@ -1048,7 +1048,7 @@ info:
   description: The LocalAI Rest API.
   license:
     name: MIT
-    url: https://raw.githubusercontent.com/mudler/LocalAI/master/LICENSE
+    url: https://raw.githubusercontent.com/BlackRoad-OS/LocalAI/master/LICENSE
   title: LocalAI API
   version: 2.0.0
 paths:

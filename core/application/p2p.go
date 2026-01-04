@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/core/p2p"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/core/services"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/p2p"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
 
 	"github.com/mudler/edgevpn/pkg/node"
 	"github.com/mudler/xlog"

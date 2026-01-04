@@ -7,9 +7,9 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/functions"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/functions"
 	"github.com/mudler/cogito"
 	"gopkg.in/yaml.v3"
 )
@@ -372,7 +372,7 @@ func (cfg *ModelConfig) SetDefaults(opts ...ConfigLoaderOption) {
 	defaultTopP := 0.95
 	defaultTopK := 40
 	defaultTemp := 0.9
-	// https://github.com/mudler/LocalAI/issues/2780
+	// https://github.com/BlackRoad-OS/LocalAI/issues/2780
 	defaultMirostat := 0
 	defaultMirostatTAU := 5.0
 	defaultMirostatETA := 0.1

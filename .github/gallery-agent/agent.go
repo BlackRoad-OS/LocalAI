@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/ghodss/yaml"
-	hfapi "github.com/mudler/LocalAI/pkg/huggingface-api"
+	hfapi "github.com/BlackRoad-OS/LocalAI/pkg/huggingface-api"
 	cogito "github.com/mudler/cogito"
 
 	"github.com/mudler/cogito/structures"

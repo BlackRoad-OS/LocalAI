@@ -9,7 +9,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	launcher "github.com/mudler/LocalAI/cmd/launcher/internal"
+	launcher "github.com/BlackRoad-OS/LocalAI/cmd/launcher/internal"
 )
 
 var _ = Describe("ReleaseManager", func() {

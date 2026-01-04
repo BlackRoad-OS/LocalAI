@@ -3,7 +3,7 @@ package schema_test
 import (
 	"encoding/json"
 
-	. "github.com/mudler/LocalAI/core/schema"
+	. "github.com/BlackRoad-OS/LocalAI/core/schema"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

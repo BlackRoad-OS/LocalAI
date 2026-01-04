@@ -190,7 +190,7 @@ else
     procs=1
 fi
 THREADS=${THREADS:-$procs}
-LATEST_VERSION=$(curl -s "https://api.github.com/repos/mudler/LocalAI/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
+LATEST_VERSION=$(curl -s "https://api.github.com/repos/BlackRoad-OS/LocalAI/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
 LOCALAI_VERSION="${LOCALAI_VERSION:-$LATEST_VERSION}" #changed due to VERSION beign already defined in Fedora 42 Cloud Edition
 MODELS_PATH=${MODELS_PATH:-/var/lib/local-ai/models}
 
@@ -760,7 +760,7 @@ install_binary_darwin() {
     [ "$(uname -s)" = "Darwin" ] || fatal 'This script is intended to run on macOS only.'
 
     info "Downloading LocalAI ${LOCALAI_VERSION}..."
-    curl --fail --show-error --location --progress-bar -o $TEMP_DIR/local-ai "https://github.com/mudler/LocalAI/releases/download/${LOCALAI_VERSION}/local-ai-${LOCALAI_VERSION}-darwin-${ARCH}"
+    curl --fail --show-error --location --progress-bar -o $TEMP_DIR/local-ai "https://github.com/BlackRoad-OS/LocalAI/releases/download/${LOCALAI_VERSION}/local-ai-${LOCALAI_VERSION}-darwin-${ARCH}"
 
     info "Installing to /usr/local/bin/local-ai"
     install -o0 -g0 -m755 $TEMP_DIR/local-ai /usr/local/bin/local-ai
@@ -792,7 +792,7 @@ install_binary() {
     fi
 
     info "Downloading LocalAI ${LOCALAI_VERSION}..."
-    curl --fail --location --progress-bar -o $TEMP_DIR/local-ai "https://github.com/mudler/LocalAI/releases/download/${LOCALAI_VERSION}/local-ai-${LOCALAI_VERSION}-linux-${ARCH}"
+    curl --fail --location --progress-bar -o $TEMP_DIR/local-ai "https://github.com/BlackRoad-OS/LocalAI/releases/download/${LOCALAI_VERSION}/local-ai-${LOCALAI_VERSION}-linux-${ARCH}"
 
     for BINDIR in /usr/local/bin /usr/bin /bin; do
         echo $PATH | grep -q $BINDIR && break || continue

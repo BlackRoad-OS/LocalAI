@@ -6,11 +6,11 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/functions"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/functions"
 	"github.com/mudler/xlog"
 	"go.yaml.in/yaml/v2"
 )

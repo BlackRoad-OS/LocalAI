@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/mudler/LocalAI/pkg/system"
-	"github.com/mudler/LocalAI/pkg/xsysinfo"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsysinfo"
 	"github.com/mudler/xlog"
 )
 

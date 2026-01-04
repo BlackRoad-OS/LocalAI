@@ -6,7 +6,7 @@ weight = 18
 url = '/models'
 +++
 
-The model gallery is a curated collection of models configurations for [LocalAI](https://github.com/go-skynet/LocalAI) that enables one-click install of models directly from the LocalAI Web interface.
+The model gallery is a curated collection of models configurations for [LocalAI](https://github.com/BlackRoad-OS/LocalAI) that enables one-click install of models directly from the LocalAI Web interface.
 
 A list of the models available can also be browsed at [the Public LocalAI Gallery](https://models.localai.io).
 
@@ -21,7 +21,7 @@ The models in this gallery are not directly maintained by LocalAI. If you find a
 GPT and text generation models might have a license which is not permissive for commercial use or might be questionable or without any license at all. Please check the model license before using it. The official gallery contains only open licensed models.
  {{% /notice %}}
 
-![output](https://github.com/mudler/LocalAI/assets/2420543/7b16676e-d5b1-4c97-89bd-9fa5065c21ad)
+![output](https://github.com/BlackRoad-OS/LocalAI/assets/2420543/7b16676e-d5b1-4c97-89bd-9fa5065c21ad)
 
 ## Useful Links and resources
 
@@ -69,13 +69,13 @@ For example, to enable the default `localai` repository, you can start `local-ai
 GALLERIES=[{"name":"localai", "url":"github:mudler/localai/gallery/index.yaml"}]
 ```
 
-where `github:mudler/localai/gallery/index.yaml` will be expanded automatically to `https://raw.githubusercontent.com/mudler/LocalAI/main/index.yaml`.
+where `github:mudler/localai/gallery/index.yaml` will be expanded automatically to `https://raw.githubusercontent.com/BlackRoad-OS/LocalAI/main/index.yaml`.
 
 Note: the url are expanded automatically for `github` and `huggingface`, however `https://` and `http://` prefix works as well.
 
 {{% notice note %}}
 
-If you want to build your own gallery, there is no documentation yet. However you can find the source of the default gallery in the [LocalAI repository](https://github.com/mudler/LocalAI/tree/master/gallery).
+If you want to build your own gallery, there is no documentation yet. However you can find the source of the default gallery in the [LocalAI repository](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery).
  {{% /notice %}}
 
 
@@ -113,7 +113,7 @@ curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
 where:
 - `localai` is the repository. It is optional and can be omitted. If the repository is omitted LocalAI will search the model by name in all the repositories. In the case the same model name is present in both galleries the first match wins.
 - `bert-embeddings` is the model name in the gallery
-  (read its [config here](https://github.com/mudler/LocalAI/tree/master/gallery/blob/main/bert-embeddings.yaml)).
+  (read its [config here](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery/blob/main/bert-embeddings.yaml)).
 
 ### How to install a model not part of a gallery
 
@@ -139,7 +139,7 @@ An example that installs hermes-2-pro-mistral can be:
 ```bash
 LOCALAI=http://localhost:8080
 curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
-     "config_url": "https://raw.githubusercontent.com/mudler/LocalAI/v2.25.0/embedded/models/hermes-2-pro-mistral.yaml"
+     "config_url": "https://raw.githubusercontent.com/BlackRoad-OS/LocalAI/v2.25.0/embedded/models/hermes-2-pro-mistral.yaml"
    }' 
 ```
 
@@ -177,13 +177,13 @@ Note: `url` or `id` must be specified. `url` is used to a url to a model gallery
 For example:
 
 ```bash
-PRELOAD_MODELS=[{"url": "github:mudler/LocalAI/gallery/stablediffusion.yaml@master"}]
+PRELOAD_MODELS=[{"url": "github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master"}]
 ```
 
 or as arg:
 
 ```bash
-local-ai --preload-models '[{"url": "github:mudler/LocalAI/gallery/stablediffusion.yaml@master"}]'
+local-ai --preload-models '[{"url": "github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master"}]'
 ```
 
 or in a YAML file:
@@ -194,14 +194,14 @@ local-ai --preload-models-config "/path/to/yaml"
 
 YAML:
 ```yaml
-- url: github:mudler/LocalAI/gallery/stablediffusion.yaml@master
+- url: github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master
 ```
 
 </details>
 
 {{% notice note %}}
 
-You can find already some open licensed models in the [LocalAI gallery](https://github.com/mudler/LocalAI/tree/master/gallery).
+You can find already some open licensed models in the [LocalAI gallery](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery).
 
 If you don't find the model in the gallery you can try to use the "base" model and provide an URL to LocalAI:
 
@@ -209,7 +209,7 @@ If you don't find the model in the gallery you can try to use the "base" model a
 
 ```
 curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
-     "url": "github:mudler/LocalAI/gallery/base.yaml@master",
+     "url": "github:BlackRoad-OS/LocalAI/gallery/base.yaml@master",
      "name": "model-name",
      "files": [
         {
@@ -242,7 +242,7 @@ For example, to install a model as `gpt-3.5-turbo`:
 ```bash
 LOCALAI=http://localhost:8080
 curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
-      "url": "github:mudler/LocalAI/gallery/gpt4all-j.yaml",
+      "url": "github:BlackRoad-OS/LocalAI/gallery/gpt4all-j.yaml",
       "name": "gpt-3.5-turbo"
    }'  
 ```
@@ -324,10 +324,10 @@ URL: https://github.com/EdVince/Stable-Diffusion-NCNN
 {{< tabs >}}
 {{% tab name="Prepare the model in runtime" %}}
 
-While the API is running, you can install the model by using the `/models/apply` endpoint and point it to the `stablediffusion` model in the [models-gallery](https://github.com/mudler/LocalAI/tree/master/gallery#image-generation-stable-diffusion):
+While the API is running, you can install the model by using the `/models/apply` endpoint and point it to the `stablediffusion` model in the [models-gallery](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery#image-generation-stable-diffusion):
 ```bash
 curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{         
-     "url": "github:mudler/LocalAI/gallery/stablediffusion.yaml@master"
+     "url": "github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master"
    }'
 ```
 
@@ -337,13 +337,13 @@ curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
 You can set the `PRELOAD_MODELS` environment variable:
 
 ```bash
-PRELOAD_MODELS=[{"url": "github:mudler/LocalAI/gallery/stablediffusion.yaml@master"}]
+PRELOAD_MODELS=[{"url": "github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master"}]
 ```
 
 or as arg:
 
 ```bash
-local-ai --preload-models '[{"url": "github:mudler/LocalAI/gallery/stablediffusion.yaml@master"}]'
+local-ai --preload-models '[{"url": "github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master"}]'
 ```
 
 or in a YAML file:
@@ -354,7 +354,7 @@ local-ai --preload-models-config "/path/to/yaml"
 
 YAML:
 ```yaml
-- url: github:mudler/LocalAI/gallery/stablediffusion.yaml@master
+- url: github:BlackRoad-OS/LocalAI/gallery/stablediffusion.yaml@master
 ```
 
 {{% /tab %}}
@@ -379,7 +379,7 @@ URL: https://github.com/ggerganov/whisper.cpp
 
 ```bash
 curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{         
-     "url": "github:mudler/LocalAI/gallery/whisper-base.yaml@master",
+     "url": "github:BlackRoad-OS/LocalAI/gallery/whisper-base.yaml@master",
      "name": "whisper-1"
    }'
 ```
@@ -390,13 +390,13 @@ curl $LOCALAI/models/apply -H "Content-Type: application/json" -d '{
 You can set the `PRELOAD_MODELS` environment variable:
 
 ```bash
-PRELOAD_MODELS=[{"url": "github:mudler/LocalAI/gallery/whisper-base.yaml@master", "name": "whisper-1"}]
+PRELOAD_MODELS=[{"url": "github:BlackRoad-OS/LocalAI/gallery/whisper-base.yaml@master", "name": "whisper-1"}]
 ```
 
 or as arg:
 
 ```bash
-local-ai --preload-models '[{"url": "github:mudler/LocalAI/gallery/whisper-base.yaml@master", "name": "whisper-1"}]'
+local-ai --preload-models '[{"url": "github:BlackRoad-OS/LocalAI/gallery/whisper-base.yaml@master", "name": "whisper-1"}]'
 ```
 
 or in a YAML file:
@@ -407,7 +407,7 @@ local-ai --preload-models-config "/path/to/yaml"
 
 YAML:
 ```yaml
-- url: github:mudler/LocalAI/gallery/whisper-base.yaml@master
+- url: github:BlackRoad-OS/LocalAI/gallery/whisper-base.yaml@master
   name: whisper-1
 ```
 
@@ -447,7 +447,7 @@ Returns an `uuid` and an `url` to follow up the state of the process:
 { "uuid":"251475c9-f666-11ed-95e0-9a8a4480ac58", "status":"http://localhost:8080/models/jobs/251475c9-f666-11ed-95e0-9a8a4480ac58"}
 ```
 
-To see a collection example of curated models definition files, see the [LocalAI repository](https://github.com/mudler/LocalAI/tree/master/gallery).
+To see a collection example of curated models definition files, see the [LocalAI repository](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery).
 
 #### Get model job state `/models/jobs/<uid>`
 

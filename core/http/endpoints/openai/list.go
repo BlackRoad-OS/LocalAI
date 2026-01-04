@@ -2,10 +2,10 @@ package openai
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/core/services"
-	model "github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 // ListModelsEndpoint is the OpenAI Models API endpoint https://platform.openai.com/docs/api-reference/models

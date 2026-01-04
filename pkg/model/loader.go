@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mudler/LocalAI/pkg/system"
-	"github.com/mudler/LocalAI/pkg/utils"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/pkg/utils"
 
 	"github.com/mudler/xlog"
 )

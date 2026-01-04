@@ -1,10 +1,10 @@
 package backend
 
 import (
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/grpc"
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 func ModelTokenize(s string, loader *model.ModelLoader, modelConfig config.ModelConfig, appConfig *config.ApplicationConfig) (schema.TokenizeResponse, error) {

@@ -7,15 +7,15 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/mudler/LocalAI/core/backend"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/core/services"
-	coreStartup "github.com/mudler/LocalAI/core/startup"
-	"github.com/mudler/LocalAI/internal"
+	"github.com/BlackRoad-OS/LocalAI/core/backend"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
+	coreStartup "github.com/BlackRoad-OS/LocalAI/core/startup"
+	"github.com/BlackRoad-OS/LocalAI/internal"
 
-	"github.com/mudler/LocalAI/pkg/model"
-	"github.com/mudler/LocalAI/pkg/xsysinfo"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsysinfo"
 	"github.com/mudler/xlog"
 )
 

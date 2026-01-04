@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/pkg/model"
-	"github.com/mudler/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 )
 
 type GalleryService struct {

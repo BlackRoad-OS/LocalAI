@@ -3,7 +3,7 @@ package importers_test
 import (
 	"encoding/json"
 
-	"github.com/mudler/LocalAI/core/gallery/importers"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery/importers"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )

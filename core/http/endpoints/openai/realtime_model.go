@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mudler/LocalAI/core/backend"
-	"github.com/mudler/LocalAI/core/config"
-	grpcClient "github.com/mudler/LocalAI/pkg/grpc"
-	"github.com/mudler/LocalAI/pkg/grpc/proto"
-	model "github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/backend"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	grpcClient "github.com/BlackRoad-OS/LocalAI/pkg/grpc"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
 	"github.com/mudler/xlog"
 	"google.golang.org/grpc"
 )

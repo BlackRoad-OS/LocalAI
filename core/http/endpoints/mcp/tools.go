@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/pkg/signals"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/pkg/signals"
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 	"github.com/mudler/xlog"

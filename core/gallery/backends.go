@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/model"
-	"github.com/mudler/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 	"github.com/mudler/xlog"
 	cp "github.com/otiai10/copy"
 )

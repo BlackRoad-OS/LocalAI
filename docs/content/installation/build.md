@@ -65,7 +65,7 @@ make build
 To build LocalAI with `make`:
 
 ```
-git clone https://github.com/go-skynet/LocalAI
+git clone https://github.com/BlackRoad-OS/LocalAI
 cd LocalAI
 make build
 ```
@@ -96,7 +96,7 @@ Install `xcode` from the Apps Store (needed for metalkit)
 ```
 brew install abseil cmake go grpc protobuf wget protoc-gen-go protoc-gen-go-grpc
 
-git clone https://github.com/go-skynet/LocalAI.git
+git clone https://github.com/BlackRoad-OS/LocalAI.git
 
 cd LocalAI
 
@@ -154,7 +154,7 @@ Typically each backend include a Makefile which allow to package the backend.
 In the LocalAI repository, for instance you can build `bark-cpp` by doing:
 
 ```
-git clone https://github.com/go-skynet/LocalAI.git
+git clone https://github.com/BlackRoad-OS/LocalAI.git
 
 make -C LocalAI/backend/go/bark-cpp build package
 
@@ -168,7 +168,7 @@ Building with docker is simpler as abstracts away all the requirement, and focus
 In the LocalAI repository, you can build `bark-cpp` by doing:
 
 ```
-git clone https://github.com/go-skynet/LocalAI.git
+git clone https://github.com/BlackRoad-OS/LocalAI.git
 
 make docker-build-bark-cpp
 ```

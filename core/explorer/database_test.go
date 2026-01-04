@@ -6,7 +6,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/mudler/LocalAI/core/explorer"
+	"github.com/BlackRoad-OS/LocalAI/core/explorer"
 )
 
 var _ = Describe("Database", func() {

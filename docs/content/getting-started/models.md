@@ -241,7 +241,7 @@ curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/jso
 {{% tab title="Docker Compose" %}}
 
 ```bash
-git clone https://github.com/go-skynet/LocalAI
+git clone https://github.com/BlackRoad-OS/LocalAI
 
 cd LocalAI
 
@@ -274,7 +274,7 @@ For Kubernetes deployment, see the [Kubernetes installation guide]({{% relref "i
 {{% /tab %}}
 {{% tab title="From Binary" %}}
 
-LocalAI binary releases are available on [GitHub](https://github.com/go-skynet/LocalAI/releases).
+LocalAI binary releases are available on [GitHub](https://github.com/BlackRoad-OS/LocalAI/releases).
 
 ```bash
 # With binary
@@ -305,7 +305,7 @@ For instructions on building LocalAI from source, see the [Build from Source gui
 
 For instructions on GPU acceleration, visit the [GPU Acceleration]({{% relref "features/gpu-acceleration" %}}) page.
 
-For more model configurations, visit the [Examples Section](https://github.com/mudler/LocalAI-examples/tree/main/configurations).
+For more model configurations, visit the [Examples Section](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/configurations).
 
 ## Understanding Model Files
 

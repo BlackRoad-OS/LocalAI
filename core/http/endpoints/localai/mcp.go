@@ -9,12 +9,12 @@ import (
 	"time"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/config"
-	mcpTools "github.com/mudler/LocalAI/core/http/endpoints/mcp"
-	"github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/core/templates"
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	mcpTools "github.com/BlackRoad-OS/LocalAI/core/http/endpoints/mcp"
+	"github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/templates"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 	"github.com/mudler/cogito"
 	"github.com/mudler/xlog"
 )

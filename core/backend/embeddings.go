@@ -3,10 +3,10 @@ package backend
 import (
 	"fmt"
 
-	"github.com/mudler/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
 
-	"github.com/mudler/LocalAI/pkg/grpc"
-	model "github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 func ModelEmbedding(s string, tokens []int, loader *model.ModelLoader, modelConfig config.ModelConfig, appConfig *config.ApplicationConfig) (func() ([]float32, error), error) {

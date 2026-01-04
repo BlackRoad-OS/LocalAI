@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/explorer"
-	"github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/core/http/routes"
+	"github.com/BlackRoad-OS/LocalAI/core/explorer"
+	"github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/core/http/routes"
 	"github.com/mudler/xlog"
 )
 

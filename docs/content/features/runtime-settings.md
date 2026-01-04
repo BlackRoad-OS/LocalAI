@@ -123,13 +123,13 @@ The `runtime_settings.json` file follows this structure:
   "federated": false,
   "galleries": [
     {
-      "url": "github:mudler/LocalAI/gallery/index.yaml@master",
+      "url": "github:BlackRoad-OS/LocalAI/gallery/index.yaml@master",
       "name": "localai"
     }
   ],
   "backend_galleries": [
     {
-      "url": "github:mudler/LocalAI/backend/index.yaml@master",
+      "url": "github:BlackRoad-OS/LocalAI/backend/index.yaml@master",
       "name": "localai"
     }
   ],

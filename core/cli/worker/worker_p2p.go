@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/p2p"
-	"github.com/mudler/LocalAI/pkg/signals"
-	"github.com/mudler/LocalAI/pkg/system"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/p2p"
+	"github.com/BlackRoad-OS/LocalAI/pkg/signals"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 	"github.com/mudler/xlog"
 	"github.com/phayes/freeport"
 )

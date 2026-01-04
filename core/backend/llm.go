@@ -11,14 +11,14 @@ import (
 
 	"github.com/mudler/xlog"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/core/services"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
 
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/pkg/grpc/proto"
-	model "github.com/mudler/LocalAI/pkg/model"
-	"github.com/mudler/LocalAI/pkg/utils"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/utils"
 )
 
 type LLMResponse struct {

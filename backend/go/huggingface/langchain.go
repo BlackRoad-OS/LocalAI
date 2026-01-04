@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mudler/LocalAI/pkg/grpc/base"
-	pb "github.com/mudler/LocalAI/pkg/grpc/proto"
-	"github.com/mudler/LocalAI/pkg/langchain"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/base"
+	pb "github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
+	"github.com/BlackRoad-OS/LocalAI/pkg/langchain"
 )
 
 type LLM struct {

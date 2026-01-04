@@ -3,8 +3,8 @@ package http_test
 import (
 	"encoding/json"
 
-	openai "github.com/mudler/LocalAI/core/http/endpoints/openai"
-	"github.com/mudler/LocalAI/core/schema"
+	openai "github.com/BlackRoad-OS/LocalAI/core/http/endpoints/openai"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
