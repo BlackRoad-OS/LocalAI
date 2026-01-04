@@ -1,10 +1,10 @@
 package backend
 
 import (
-	"github.com/mudler/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
 
-	"github.com/mudler/LocalAI/pkg/grpc/proto"
-	model "github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 func ImageGeneration(height, width, step, seed int, positive_prompt, negative_prompt, src, dst string, loader *model.ModelLoader, modelConfig config.ModelConfig, appConfig *config.ApplicationConfig, refImages []string) (func() error, error) {

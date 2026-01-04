@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/application"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/p2p"
-	"github.com/mudler/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/p2p"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
 	"github.com/mudler/xlog"
 )
 

@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/mudler/LocalAI/pkg/grpc/base"
-	pb "github.com/mudler/LocalAI/pkg/grpc/proto"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/base"
+	pb "github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
 )
 
 type Bark struct {

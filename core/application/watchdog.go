@@ -3,7 +3,7 @@ package application
 import (
 	"time"
 
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 	"github.com/mudler/xlog"
 )
 

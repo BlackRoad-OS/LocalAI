@@ -6,15 +6,15 @@ import (
 	"errors"
 	"fmt"
 
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/services"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
 
-	"github.com/mudler/LocalAI/core/gallery"
-	"github.com/mudler/LocalAI/core/startup"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/model"
-	"github.com/mudler/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/startup"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 	"github.com/mudler/xlog"
 	"github.com/schollz/progressbar/v3"
 )

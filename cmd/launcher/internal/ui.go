@@ -726,7 +726,7 @@ Getting Started:
 		})
 
 		githubButton := widget.NewButton("🐙 GitHub Repository", func() {
-			ui.openURL("https://github.com/mudler/LocalAI")
+			ui.openURL("https://github.com/BlackRoad-OS/LocalAI")
 		})
 
 		modelsButton := widget.NewButton("🤖 Model Gallery", func() {

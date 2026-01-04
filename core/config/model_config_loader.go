@@ -11,9 +11,9 @@ import (
 	"sync"
 
 	"github.com/charmbracelet/glamour"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/pkg/downloader"
-	"github.com/mudler/LocalAI/pkg/utils"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/pkg/downloader"
+	"github.com/BlackRoad-OS/LocalAI/pkg/utils"
 	"github.com/mudler/xlog"
 	"gopkg.in/yaml.v3"
 )

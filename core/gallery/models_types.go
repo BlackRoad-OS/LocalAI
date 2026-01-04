@@ -3,7 +3,7 @@ package gallery
 import (
 	"fmt"
 
-	"github.com/mudler/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
 )
 
 // GalleryModel is the struct used to represent a model in the gallery returned by the endpoint.

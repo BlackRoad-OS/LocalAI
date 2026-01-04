@@ -3,8 +3,8 @@ package services
 import (
 	"context"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/pkg/xsync"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsync"
 )
 
 type GalleryOp[T any, E any] struct {

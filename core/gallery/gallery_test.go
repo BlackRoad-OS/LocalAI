@@ -4,8 +4,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mudler/LocalAI/core/config"
-	. "github.com/mudler/LocalAI/core/gallery"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	. "github.com/BlackRoad-OS/LocalAI/core/gallery"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	"gopkg.in/yaml.v2"

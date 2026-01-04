@@ -6,7 +6,7 @@ weight = 12
 url = "/features/image-generation/"
 +++
 
-![anime_girl](https://github.com/go-skynet/LocalAI/assets/2420543/8aaca62a-e864-4011-98ae-dcc708103928)
+![anime_girl](https://github.com/BlackRoad-OS/LocalAI/assets/2420543/8aaca62a-e864-4011-98ae-dcc708103928)
 (Generated with [AnimagineXL](https://huggingface.co/Linaqruf/animagine-xl))
 
 LocalAI supports generating images with Stable diffusion, running on CPU using C++ and Python implementations.
@@ -76,7 +76,7 @@ options:
 
 [Diffusers](https://huggingface.co/docs/diffusers/index) is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules. LocalAI has a diffusers backend which allows image generation using the `diffusers` library.
 
-![anime_girl](https://github.com/go-skynet/LocalAI/assets/2420543/8aaca62a-e864-4011-98ae-dcc708103928)
+![anime_girl](https://github.com/BlackRoad-OS/LocalAI/assets/2420543/8aaca62a-e864-4011-98ae-dcc708103928)
 (Generated with [AnimagineXL](https://huggingface.co/Linaqruf/animagine-xl))
 
 #### Model setup

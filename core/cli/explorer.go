@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/explorer"
-	"github.com/mudler/LocalAI/core/http"
-	"github.com/mudler/LocalAI/pkg/signals"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/explorer"
+	"github.com/BlackRoad-OS/LocalAI/core/http"
+	"github.com/BlackRoad-OS/LocalAI/pkg/signals"
 	"github.com/mudler/xlog"
 )
 

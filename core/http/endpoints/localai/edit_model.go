@@ -7,10 +7,10 @@ import (
 	"os"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/config"
-	httpUtils "github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/internal"
-	"github.com/mudler/LocalAI/pkg/utils"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	httpUtils "github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/internal"
+	"github.com/BlackRoad-OS/LocalAI/pkg/utils"
 
 	"gopkg.in/yaml.v3"
 )

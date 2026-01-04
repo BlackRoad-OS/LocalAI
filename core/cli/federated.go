@@ -3,9 +3,9 @@ package cli
 import (
 	"context"
 
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/p2p"
-	"github.com/mudler/LocalAI/pkg/signals"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/p2p"
+	"github.com/BlackRoad-OS/LocalAI/pkg/signals"
 )
 
 type FederatedCLI struct {

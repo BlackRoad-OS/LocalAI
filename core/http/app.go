@@ -13,13 +13,13 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 
-	"github.com/mudler/LocalAI/core/http/endpoints/localai"
-	httpMiddleware "github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/core/http/routes"
+	"github.com/BlackRoad-OS/LocalAI/core/http/endpoints/localai"
+	httpMiddleware "github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/core/http/routes"
 
-	"github.com/mudler/LocalAI/core/application"
-	"github.com/mudler/LocalAI/core/schema"
-	"github.com/mudler/LocalAI/core/services"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
 
 	"github.com/mudler/xlog"
 )

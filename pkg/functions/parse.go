@@ -8,8 +8,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/mudler/LocalAI/pkg/functions/grammars"
-	"github.com/mudler/LocalAI/pkg/utils"
+	"github.com/BlackRoad-OS/LocalAI/pkg/functions/grammars"
+	"github.com/BlackRoad-OS/LocalAI/pkg/utils"
 	"github.com/mudler/xlog"
 )
 

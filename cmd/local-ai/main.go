@@ -6,11 +6,11 @@ import (
 
 	"github.com/alecthomas/kong"
 	"github.com/joho/godotenv"
-	"github.com/mudler/LocalAI/core/cli"
-	"github.com/mudler/LocalAI/internal"
+	"github.com/BlackRoad-OS/LocalAI/core/cli"
+	"github.com/BlackRoad-OS/LocalAI/internal"
 	"github.com/mudler/xlog"
 
-	_ "github.com/mudler/LocalAI/swagger"
+	_ "github.com/BlackRoad-OS/LocalAI/swagger"
 )
 
 func main() {
@@ -45,7 +45,7 @@ func main() {
 
 For a list of all available models run local-ai models list
 
-Copyright: Ettore Di Giacinto
+Copyright: BlackRoad OS, Inc. (original work by Ettore Di Giacinto)
 
 Version: ${version}
 `,
@@ -53,8 +53,8 @@ Version: ${version}
 		kong.UsageOnError(),
 		kong.Vars{
 			"basepath":  kong.ExpandPath("."),
-			"galleries": `[{"name":"localai", "url":"github:mudler/LocalAI/gallery/index.yaml@master"}]`,
-			"backends":  `[{"name":"localai", "url":"github:mudler/LocalAI/backend/index.yaml@master"}]`,
+			"galleries": `[{"name":"localai", "url":"github:BlackRoad-OS/LocalAI/gallery/index.yaml@master"}]`,
+			"backends":  `[{"name":"localai", "url":"github:BlackRoad-OS/LocalAI/backend/index.yaml@master"}]`,
 			"version":   internal.PrintableVersion(),
 		},
 	)

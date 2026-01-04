@@ -1,10 +1,10 @@
 package templates_test
 
 import (
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/schema"
-	. "github.com/mudler/LocalAI/core/templates"
-	"github.com/mudler/LocalAI/pkg/functions"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
+	. "github.com/BlackRoad-OS/LocalAI/core/templates"
+	"github.com/BlackRoad-OS/LocalAI/pkg/functions"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

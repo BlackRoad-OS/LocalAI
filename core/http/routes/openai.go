@@ -2,12 +2,12 @@ package routes
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/application"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/http/endpoints/localai"
-	"github.com/mudler/LocalAI/core/http/endpoints/openai"
-	"github.com/mudler/LocalAI/core/http/middleware"
-	"github.com/mudler/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/http/endpoints/localai"
+	"github.com/BlackRoad-OS/LocalAI/core/http/endpoints/openai"
+	"github.com/BlackRoad-OS/LocalAI/core/http/middleware"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
 )
 
 func RegisterOpenAIRoutes(app *echo.Echo,

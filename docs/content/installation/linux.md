@@ -64,9 +64,9 @@ curl https://localai.io/install.sh | sh -s -- --uninstall
 
 ### Download Binary
 
-You can manually download the appropriate binary for your system from the [releases page](https://github.com/mudler/LocalAI/releases):
+You can manually download the appropriate binary for your system from the [releases page](https://github.com/BlackRoad-OS/LocalAI/releases):
 
-1. Go to  [GitHub Releases](https://github.com/mudler/LocalAI/releases)
+1. Go to  [GitHub Releases](https://github.com/BlackRoad-OS/LocalAI/releases)
 2. Download the binary for your architecture (amd64, arm64, etc.)
 3. Make it executable:
 

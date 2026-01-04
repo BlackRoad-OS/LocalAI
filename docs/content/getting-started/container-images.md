@@ -136,7 +136,7 @@ These images are compatible with Nvidia ARM64 devices with CUDA 13, such as the 
 
 ## All-in-one images
 
-All-In-One images are images that come pre-configured with a set of models and backends to fully leverage almost all the LocalAI featureset. These images are available for both CPU and GPU environments. The AIO images are designed to be easy to use and require no configuration. Models configuration can be found [here](https://github.com/mudler/LocalAI/tree/master/aio) separated by size.
+All-In-One images are images that come pre-configured with a set of models and backends to fully leverage almost all the LocalAI featureset. These images are available for both CPU and GPU environments. The AIO images are designed to be easy to use and require no configuration. Models configuration can be found [here](https://github.com/BlackRoad-OS/LocalAI/tree/master/aio) separated by size.
 
 In the AIO images there are models configured with the names of OpenAI models, however, they are really backed by Open Source models. You can find the table below
 

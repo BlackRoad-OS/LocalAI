@@ -51,4 +51,4 @@ template:
 download_files:
 - filename: localai-functioncall-phi-4-v0.3-q4_k_m.gguf
   sha256: 23fee048ded2a6e2e1a7b6bbefa6cbf83068f194caa9552aecbaa00fec8a16d5
-  uri: huggingface://mudler/LocalAI-functioncall-phi-4-v0.3-Q4_K_M-GGUF/localai-functioncall-phi-4-v0.3-q4_k_m.gguf
+  uri: huggingface://BlackRoad-OS/LocalAI-functioncall-phi-4-v0.3-Q4_K_M-GGUF/localai-functioncall-phi-4-v0.3-q4_k_m.gguf

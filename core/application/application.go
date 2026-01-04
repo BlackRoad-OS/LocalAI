@@ -4,10 +4,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/services"
-	"github.com/mudler/LocalAI/core/templates"
-	"github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/services"
+	"github.com/BlackRoad-OS/LocalAI/core/templates"
+	"github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 type Application struct {

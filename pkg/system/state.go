@@ -2,7 +2,7 @@ package system
 
 import (
 	"github.com/jaypipes/ghw/pkg/gpu"
-	"github.com/mudler/LocalAI/pkg/xsysinfo"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsysinfo"
 	"github.com/mudler/xlog"
 )
 

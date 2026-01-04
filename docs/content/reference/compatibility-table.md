@@ -58,7 +58,7 @@ LocalAI will attempt to automatically load models which are not explicitly confi
 |----------------------------------------------------------------------------------|-----------------------|--------------------------|---------------------------|-----------------------------------|----------------------|--------------|
 | [rfdetr](https://github.com/roboflow/rf-detr) | RF-DETR    | no                       | Object Detection    | no                               | no                   | CUDA 12/13, Intel, CPU |
 | [rerankers](https://github.com/AnswerDotAI/rerankers) | Reranking API    | no                       | Reranking   | no                               | no                   | CUDA 11/12/13, ROCm, Intel, CPU |
-| [local-store](https://github.com/mudler/LocalAI) | Vector database    | no                       | Vector storage   | yes                               | no                   | CPU |
+| [local-store](https://github.com/BlackRoad-OS/LocalAI) | Vector database    | no                       | Vector storage   | yes                               | no                   | CPU |
 | [huggingface](https://huggingface.co/docs/hub/en/api) | HuggingFace API models    | yes                       | Various AI tasks   | yes                               | yes                   | API-based |
 
 ## Acceleration Support Summary

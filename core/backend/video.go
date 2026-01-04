@@ -1,10 +1,10 @@
 package backend
 
 import (
-	"github.com/mudler/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
 
-	"github.com/mudler/LocalAI/pkg/grpc/proto"
-	model "github.com/mudler/LocalAI/pkg/model"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
+	model "github.com/BlackRoad-OS/LocalAI/pkg/model"
 )
 
 func VideoGeneration(height, width int32, prompt, negativePrompt, startImage, endImage, dst string, numFrames, fps, seed int32, cfgScale float32, step int32, loader *model.ModelLoader, modelConfig config.ModelConfig, appConfig *config.ApplicationConfig) (func() error, error) {

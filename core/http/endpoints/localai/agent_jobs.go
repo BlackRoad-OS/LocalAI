@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/application"
-	"github.com/mudler/LocalAI/core/schema"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
+	"github.com/BlackRoad-OS/LocalAI/core/schema"
 )
 
 // CreateTaskEndpoint creates a new agent task

@@ -7,14 +7,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mudler/LocalAI/core/application"
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/config"
-	"github.com/mudler/LocalAI/core/http"
-	"github.com/mudler/LocalAI/core/p2p"
-	"github.com/mudler/LocalAI/internal"
-	"github.com/mudler/LocalAI/pkg/signals"
-	"github.com/mudler/LocalAI/pkg/system"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/http"
+	"github.com/BlackRoad-OS/LocalAI/core/p2p"
+	"github.com/BlackRoad-OS/LocalAI/internal"
+	"github.com/BlackRoad-OS/LocalAI/pkg/signals"
+	"github.com/BlackRoad-OS/LocalAI/pkg/system"
 	"github.com/mudler/xlog"
 )
 

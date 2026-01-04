@@ -5,17 +5,17 @@
 </h1>
 
 <p align="center">
-<a href="https://github.com/go-skynet/LocalAI/fork" target="blank">
-<img src="https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI forks"/>
+<a href="https://github.com/BlackRoad-OS/LocalAI/fork" target="blank">
+<img src="https://img.shields.io/github/forks/BlackRoad-OS/LocalAI?style=for-the-badge" alt="LocalAI forks"/>
 </a>
-<a href="https://github.com/go-skynet/LocalAI/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI stars"/>
+<a href="https://github.com/BlackRoad-OS/LocalAI/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/BlackRoad-OS/LocalAI?style=for-the-badge" alt="LocalAI stars"/>
 </a>
-<a href="https://github.com/go-skynet/LocalAI/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/go-skynet/LocalAI?style=for-the-badge" alt="LocalAI pull-requests"/>
+<a href="https://github.com/BlackRoad-OS/LocalAI/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/BlackRoad-OS/LocalAI?style=for-the-badge" alt="LocalAI pull-requests"/>
 </a>
-<a href='https://github.com/go-skynet/LocalAI/releases'>
-<img src='https://img.shields.io/github/release/go-skynet/LocalAI?&label=Latest&style=for-the-badge'>
+<a href='https://github.com/BlackRoad-OS/LocalAI/releases'>
+<img src='https://img.shields.io/github/release/BlackRoad-OS/LocalAI?&label=Latest&style=for-the-badge'>
 </a>
 </p>
 
@@ -41,14 +41,14 @@
 <a href="https://trendshift.io/repositories/5539" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5539" alt="mudler%2FLocalAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
-> :bulb: Get help - [❓FAQ](https://localai.io/faq/) [💭Discussions](https://github.com/go-skynet/LocalAI/discussions) [:speech_balloon: Discord](https://discord.gg/uJAeKSAGDy) [:book: Documentation website](https://localai.io/)
+> :bulb: Get help - [❓FAQ](https://localai.io/faq/) [💭Discussions](https://github.com/BlackRoad-OS/LocalAI/discussions) [:speech_balloon: Discord](https://discord.gg/uJAeKSAGDy) [:book: Documentation website](https://localai.io/)
 >
-> [💻 Quickstart](https://localai.io/basics/getting_started/) [🖼️ Models](https://models.localai.io/) [🚀 Roadmap](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap) [🛫 Examples](https://github.com/mudler/LocalAI-examples) Try on 
+> [💻 Quickstart](https://localai.io/basics/getting_started/) [🖼️ Models](https://models.localai.io/) [🚀 Roadmap](https://github.com/BlackRoad-OS/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap) [🛫 Examples](https://github.com/BlackRoad-OS/LocalAI-examples) Try on 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/localaiofficial_bot)
 
-[![tests](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/test.yml)[![Build and Release](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/release.yaml)[![build container images](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/image.yml)[![Bump dependencies](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml/badge.svg)](https://github.com/go-skynet/LocalAI/actions/workflows/bump_deps.yaml)[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/localai)](https://artifacthub.io/packages/search?repo=localai)
+[![tests](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/test.yml/badge.svg)](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/test.yml)[![Build and Release](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/release.yaml/badge.svg)](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/release.yaml)[![build container images](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/image.yml/badge.svg)](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/image.yml)[![Bump dependencies](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/bump_deps.yaml/badge.svg)](https://github.com/BlackRoad-OS/LocalAI/actions/workflows/bump_deps.yaml)[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/localai)](https://artifacthub.io/packages/search?repo=localai)
 
-**LocalAI** is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that's compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU. It is created and maintained by [Ettore Di Giacinto](https://github.com/mudler).
+**LocalAI** is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that's compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families. Does not require GPU. Originally created by [Ettore Di Giacinto](https://github.com/mudler), now maintained by BlackRoad OS, Inc.
 
 
 ## 📚🆕 Local Stack Family
@@ -122,11 +122,11 @@ For more installation options, see [Installer Options](https://localai.io/instal
 
 ### macOS Download:
 
-<a href="https://github.com/mudler/LocalAI/releases/latest/download/LocalAI.dmg">
+<a href="https://github.com/BlackRoad-OS/LocalAI/releases/latest/download/LocalAI.dmg">
   <img src="https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download LocalAI for macOS"/>
 </a>
 
-> Note: the DMGs are not signed by Apple as quarantined. See https://github.com/mudler/LocalAI/issues/6268 for a workaround, fix is tracked here: https://github.com/mudler/LocalAI/issues/6244
+> Note: the DMGs are not signed by Apple as quarantined. See https://github.com/BlackRoad-OS/LocalAI/issues/6268 for a workaround, fix is tracked here: https://github.com/BlackRoad-OS/LocalAI/issues/6244
 
 Or run with docker:
 
@@ -222,36 +222,36 @@ local-ai run oci://localai/phi-2:latest
 
 > ⚡ **Automatic Backend Detection**: When you install models from the gallery or YAML files, LocalAI automatically detects your system's GPU capabilities (NVIDIA, AMD, Intel) and downloads the appropriate backend. For advanced configuration options, see [GPU Acceleration](https://localai.io/features/gpu-acceleration/#automatic-backend-detection).
 
-For more information, see [💻 Getting started](https://localai.io/basics/getting_started/index.html), if you are interested in our roadmap items and future enhancements, you can see the [Issues labeled as Roadmap here](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
+For more information, see [💻 Getting started](https://localai.io/basics/getting_started/index.html), if you are interested in our roadmap items and future enhancements, you can see the [Issues labeled as Roadmap here](https://github.com/BlackRoad-OS/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
 
 ## 📰 Latest project news
 
-- December 2025: [Dynamic Memory Resource reclaimer](https://github.com/mudler/LocalAI/pull/7583), [Automatic fitting of models to multiple GPUS(llama.cpp)](https://github.com/mudler/LocalAI/pull/7584), [Added Vibevoice backend](https://github.com/mudler/LocalAI/pull/7494)
-- November 2025: Major improvements to the UX. Among these: [Import models via URL](https://github.com/mudler/LocalAI/pull/7245) and [Multiple chats and history](https://github.com/mudler/LocalAI/pull/7325)
+- December 2025: [Dynamic Memory Resource reclaimer](https://github.com/BlackRoad-OS/LocalAI/pull/7583), [Automatic fitting of models to multiple GPUS(llama.cpp)](https://github.com/BlackRoad-OS/LocalAI/pull/7584), [Added Vibevoice backend](https://github.com/BlackRoad-OS/LocalAI/pull/7494)
+- November 2025: Major improvements to the UX. Among these: [Import models via URL](https://github.com/BlackRoad-OS/LocalAI/pull/7245) and [Multiple chats and history](https://github.com/BlackRoad-OS/LocalAI/pull/7325)
 - October 2025: 🔌 [Model Context Protocol (MCP)](https://localai.io/docs/features/mcp/) support added for agentic capabilities with external tools
 - September 2025: New Launcher application for MacOS and Linux, extended support to many backends for Mac and Nvidia L4T devices. Models: Added MLX-Audio, WAN 2.2. WebUI improvements and Python-based backends now ships portable python environments.
-- August 2025: MLX, MLX-VLM, Diffusers and llama.cpp are now supported on Mac M1/M2/M3+ chips ( with `development` suffix in the gallery ): https://github.com/mudler/LocalAI/pull/6049 https://github.com/mudler/LocalAI/pull/6119 https://github.com/mudler/LocalAI/pull/6121 https://github.com/mudler/LocalAI/pull/6060
+- August 2025: MLX, MLX-VLM, Diffusers and llama.cpp are now supported on Mac M1/M2/M3+ chips ( with `development` suffix in the gallery ): https://github.com/BlackRoad-OS/LocalAI/pull/6049 https://github.com/BlackRoad-OS/LocalAI/pull/6119 https://github.com/BlackRoad-OS/LocalAI/pull/6121 https://github.com/BlackRoad-OS/LocalAI/pull/6060
 - July/August 2025: 🔍 [Object Detection](https://localai.io/features/object-detection/) added to the API featuring [rf-detr](https://github.com/roboflow/rf-detr)
-- July 2025: All backends migrated outside of the main binary. LocalAI is now more lightweight, small, and automatically downloads the required backend to run the model. [Read the release notes](https://github.com/mudler/LocalAI/releases/tag/v3.2.0)
-- June 2025: [Backend management](https://github.com/mudler/LocalAI/pull/5607) has been added. Attention: extras images are going to be deprecated from the next release! Read [the backend management PR](https://github.com/mudler/LocalAI/pull/5607).
-- May 2025: [Audio input](https://github.com/mudler/LocalAI/pull/5466) and [Reranking](https://github.com/mudler/LocalAI/pull/5396) in llama.cpp backend, [Realtime API](https://github.com/mudler/LocalAI/pull/5392),  Support to Gemma, SmollVLM, and more multimodal models (available in the gallery).
-- May 2025: Important: image name changes [See release](https://github.com/mudler/LocalAI/releases/tag/v2.29.0)
+- July 2025: All backends migrated outside of the main binary. LocalAI is now more lightweight, small, and automatically downloads the required backend to run the model. [Read the release notes](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v3.2.0)
+- June 2025: [Backend management](https://github.com/BlackRoad-OS/LocalAI/pull/5607) has been added. Attention: extras images are going to be deprecated from the next release! Read [the backend management PR](https://github.com/BlackRoad-OS/LocalAI/pull/5607).
+- May 2025: [Audio input](https://github.com/BlackRoad-OS/LocalAI/pull/5466) and [Reranking](https://github.com/BlackRoad-OS/LocalAI/pull/5396) in llama.cpp backend, [Realtime API](https://github.com/BlackRoad-OS/LocalAI/pull/5392),  Support to Gemma, SmollVLM, and more multimodal models (available in the gallery).
+- May 2025: Important: image name changes [See release](https://github.com/BlackRoad-OS/LocalAI/releases/tag/v2.29.0)
 - Apr 2025: Rebrand, WebUI enhancements
 - Apr 2025: [LocalAGI](https://github.com/mudler/LocalAGI) and [LocalRecall](https://github.com/mudler/LocalRecall) join the LocalAI family stack.
 - Apr 2025: WebUI overhaul, AIO images updates
 - Feb 2025: Backend cleanup, Breaking changes, new backends (kokoro, OutelTTS, faster-whisper), Nvidia L4T images
-- Jan 2025: LocalAI model release: https://huggingface.co/mudler/LocalAI-functioncall-phi-4-v0.3, SANA support in diffusers: https://github.com/mudler/LocalAI/pull/4603
-- Dec 2024: stablediffusion.cpp backend (ggml) added ( https://github.com/mudler/LocalAI/pull/4289 )
-- Nov 2024: Bark.cpp backend added ( https://github.com/mudler/LocalAI/pull/4287 )
-- Nov 2024: Voice activity detection models (**VAD**) added to the API: https://github.com/mudler/LocalAI/pull/4204
-- Oct 2024: examples moved to [LocalAI-examples](https://github.com/mudler/LocalAI-examples)
+- Jan 2025: LocalAI model release: https://huggingface.co/BlackRoad-OS/LocalAI-functioncall-phi-4-v0.3, SANA support in diffusers: https://github.com/BlackRoad-OS/LocalAI/pull/4603
+- Dec 2024: stablediffusion.cpp backend (ggml) added ( https://github.com/BlackRoad-OS/LocalAI/pull/4289 )
+- Nov 2024: Bark.cpp backend added ( https://github.com/BlackRoad-OS/LocalAI/pull/4287 )
+- Nov 2024: Voice activity detection models (**VAD**) added to the API: https://github.com/BlackRoad-OS/LocalAI/pull/4204
+- Oct 2024: examples moved to [LocalAI-examples](https://github.com/BlackRoad-OS/LocalAI-examples)
 - Aug 2024:  🆕 FLUX-1, [P2P Explorer](https://explorer.localai.io)
-- July 2024: 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: https://github.com/mudler/LocalAI/pull/2723. P2P Global community pools: https://github.com/mudler/LocalAI/issues/3113
-- May 2024: 🔥🔥 Decentralized P2P llama.cpp:  https://github.com/mudler/LocalAI/pull/2343 (peer2peer llama.cpp!) 👉 Docs  https://localai.io/features/distribute/
-- May 2024: 🔥🔥 Distributed inferencing: https://github.com/mudler/LocalAI/pull/2324
-- April 2024: Reranker API: https://github.com/mudler/LocalAI/pull/2121
+- July 2024: 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: https://github.com/BlackRoad-OS/LocalAI/pull/2723. P2P Global community pools: https://github.com/BlackRoad-OS/LocalAI/issues/3113
+- May 2024: 🔥🔥 Decentralized P2P llama.cpp:  https://github.com/BlackRoad-OS/LocalAI/pull/2343 (peer2peer llama.cpp!) 👉 Docs  https://localai.io/features/distribute/
+- May 2024: 🔥🔥 Distributed inferencing: https://github.com/BlackRoad-OS/LocalAI/pull/2324
+- April 2024: Reranker API: https://github.com/BlackRoad-OS/LocalAI/pull/2121
 
-Roadmap items: [List of issues](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
+Roadmap items: [List of issues](https://github.com/BlackRoad-OS/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
 
 ## 🚀 [Features](https://localai.io/features/)
 
@@ -338,7 +338,7 @@ Build and deploy custom containers:
 
 WebUIs:
 - https://github.com/Jirubizu/localai-admin
-- https://github.com/go-skynet/LocalAI-frontend
+- https://github.com/BlackRoad-OS/LocalAI-frontend
 - QA-Pilot(An interactive chat project that leverages LocalAI LLMs for rapid understanding and navigation of GitHub code repository) https://github.com/reid41/QA-Pilot
 
 Agentic Libraries:
@@ -363,12 +363,12 @@ Other:
 - Discord bot https://github.com/mudler/LocalAGI/tree/main/examples/discord
 - Slack bot https://github.com/mudler/LocalAGI/tree/main/examples/slack
 - Shell-Pilot(Interact with LLM using LocalAI models via pure shell scripts on your Linux or MacOS system) https://github.com/reid41/shell-pilot
-- Telegram bot https://github.com/mudler/LocalAI/tree/master/examples/telegram-bot
+- Telegram bot https://github.com/BlackRoad-OS/LocalAI/tree/master/examples/telegram-bot
 - Another Telegram Bot https://github.com/JackBekket/Hellper
 - Auto-documentation https://github.com/JackBekket/Reflexia
 - Github bot which answer on issues, with code and documentation as context https://github.com/JackBekket/GitHelper
 - Github Actions: https://github.com/marketplace/actions/start-localai
-- Examples: https://github.com/mudler/LocalAI/tree/master/examples/
+- Examples: https://github.com/BlackRoad-OS/LocalAI/tree/master/examples/
   
 
 ### 🔗 Resources
@@ -396,12 +396,12 @@ If you utilize this repository, data in a downstream project, please consider ci
 
 ```
 @misc{localai,
-  author = {Ettore Di Giacinto},
+  author = {Ettore Di Giacinto and BlackRoad OS, Inc.},
   title = {LocalAI: The free, Open source OpenAI alternative},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/go-skynet/LocalAI}},
+  howpublished = {\url{https://github.com/BlackRoad-OS/LocalAI}},
 ```
 
 ## ❤️ Sponsors
@@ -417,7 +417,7 @@ A huge thank you to our generous sponsors who support this project covering CI e
     <img height="200" src="https://github.com/user-attachments/assets/72eab1dd-8b93-4fc0-9ade-84db49f24962">
   </a>
   <a href="https://www.premai.io/" target="blank">
-    <img height="200" src="https://github.com/mudler/LocalAI/assets/2420543/42e4ca83-661e-4f79-8e46-ae43689683d6"> <br>
+    <img height="200" src="https://github.com/BlackRoad-OS/LocalAI/assets/2420543/42e4ca83-661e-4f79-8e46-ae43689683d6"> <br>
   </a>
 </p>
 
@@ -427,13 +427,13 @@ A special thanks to individual sponsors that contributed to the project, a full 
 
 ## 🌟 Star history
 
-[![LocalAI Star history Chart](https://api.star-history.com/svg?repos=go-skynet/LocalAI&type=Date)](https://star-history.com/#go-skynet/LocalAI&Date)
+[![LocalAI Star history Chart](https://api.star-history.com/svg?repos=BlackRoad-OS/LocalAI&type=Date)](https://star-history.com/#BlackRoad-OS/LocalAI&Date)
 
 ## 📖 License
 
-LocalAI is a community-driven project created by [Ettore Di Giacinto](https://github.com/mudler/).
+LocalAI is a community-driven project originally created by [Ettore Di Giacinto](https://github.com/mudler/), now maintained by BlackRoad OS, Inc.
 
-MIT - Author Ettore Di Giacinto <mudler@localai.io>
+MIT - Copyright BlackRoad OS, Inc.
 
 ## 🙇 Acknowledgements
 
@@ -450,6 +450,6 @@ LocalAI couldn't have been built without the help of great software already avai
 ## 🤗 Contributors
 
 This is a community project, a special thanks to our contributors! 🤗
-<a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
+<a href="https://github.com/BlackRoad-OS/LocalAI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BlackRoad-OS/LocalAI" />
 </a>

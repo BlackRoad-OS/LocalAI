@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/ebitengine/purego"
-	grpc "github.com/mudler/LocalAI/pkg/grpc"
+	grpc "github.com/BlackRoad-OS/LocalAI/pkg/grpc"
 )
 
 var (

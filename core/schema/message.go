@@ -5,7 +5,7 @@ import (
 
 	"github.com/mudler/xlog"
 
-	"github.com/mudler/LocalAI/pkg/grpc/proto"
+	"github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto"
 )
 
 type Message struct {

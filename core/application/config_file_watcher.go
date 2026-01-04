@@ -10,7 +10,7 @@ import (
 
 	"dario.cat/mergo"
 	"github.com/fsnotify/fsnotify"
-	"github.com/mudler/LocalAI/core/config"
+	"github.com/BlackRoad-OS/LocalAI/core/config"
 	"github.com/mudler/xlog"
 )
 

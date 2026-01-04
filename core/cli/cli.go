@@ -1,8 +1,8 @@
 package cli
 
 import (
-	cliContext "github.com/mudler/LocalAI/core/cli/context"
-	"github.com/mudler/LocalAI/core/cli/worker"
+	cliContext "github.com/BlackRoad-OS/LocalAI/core/cli/context"
+	"github.com/BlackRoad-OS/LocalAI/core/cli/worker"
 )
 
 var CLI struct {

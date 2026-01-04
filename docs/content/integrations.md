@@ -8,7 +8,7 @@ icon = "sync"
 
 ## Community integrations
 
-List of projects that are using directly LocalAI behind the scenes can be found [here](https://github.com/mudler/LocalAI#-community-and-integrations).
+List of projects that are using directly LocalAI behind the scenes can be found [here](https://github.com/BlackRoad-OS/LocalAI#-community-and-integrations).
 
 The list below is a list of software that integrates with LocalAI.
 
@@ -229,7 +229,7 @@ jobs:
 
 ### Realtime Voice Assistant
 
-LocalAI supports realtime voice interactions , enabling voice assistant applications with real-time speech-to-speech communication. A complete example implementation is available in the [LocalAI-examples repository](https://github.com/mudler/LocalAI-examples/tree/main/realtime).
+LocalAI supports realtime voice interactions , enabling voice assistant applications with real-time speech-to-speech communication. A complete example implementation is available in the [LocalAI-examples repository](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/realtime).
 
 #### Overview
 
@@ -251,7 +251,7 @@ The realtime voice assistant example demonstrates how to build a voice assistant
 1. **Clone the example repository**
 
    ```bash
-   git clone https://github.com/mudler/LocalAI-examples.git
+   git clone https://github.com/BlackRoad-OS/LocalAI-examples.git
    cd LocalAI-examples/realtime
    ```
 
@@ -305,7 +305,7 @@ The realtime voice assistant example demonstrates how to build a voice assistant
 
 #### Additional Resources
 
-- [Realtime Voice Assistant Example](https://github.com/mudler/LocalAI-examples/tree/main/realtime)
+- [Realtime Voice Assistant Example](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/realtime)
 - [LocalAI Realtime API documentation](/features/)
 - [Audio features documentation](/features/text-to-audio/)
 - [Transcription features documentation](/features/audio-to-text/)

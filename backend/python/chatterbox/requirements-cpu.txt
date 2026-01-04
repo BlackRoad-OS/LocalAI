@@ -4,6 +4,6 @@ torch
 torchaudio
 numpy>=1.24.0,<1.26.0
 transformers
-# https://github.com/mudler/LocalAI/pull/6240#issuecomment-3329518289
+# https://github.com/BlackRoad-OS/LocalAI/pull/6240#issuecomment-3329518289
 chatterbox-tts@git+https://git@github.com/mudler/chatterbox.git@faster
 #chatterbox-tts==0.1.4

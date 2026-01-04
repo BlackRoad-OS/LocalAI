@@ -35,10 +35,10 @@ For a complete reference of all available configuration options, see the [Model 
 2. **Single config file**: Use `--models-config-file` or `LOCALAI_MODELS_CONFIG_FILE` to specify a file containing multiple models
 3. **Remote URLs**: Specify a URL to a YAML configuration file at startup:
    ```bash
-   local-ai run github://mudler/LocalAI/examples/configurations/phi-2.yaml@master
+   local-ai run github://BlackRoad-OS/LocalAI/examples/configurations/phi-2.yaml@master
    ```
 
-See also [chatbot-ui](https://github.com/mudler/LocalAI-examples/tree/main/chatbot-ui) as an example on how to use config files.
+See also [chatbot-ui](https://github.com/BlackRoad-OS/LocalAI-examples/tree/main/chatbot-ui) as an example on how to use config files.
 
 ### Prompt templates 
 
@@ -56,7 +56,7 @@ The below instruction describes a task. Write a response that appropriately comp
 ### Response:
 ```
 
-See the [prompt-templates](https://github.com/go-skynet/LocalAI/tree/master/prompt-templates) directory in this repository for templates for some of the most popular models.
+See the [prompt-templates](https://github.com/BlackRoad-OS/LocalAI/tree/master/prompt-templates) directory in this repository for templates for some of the most popular models.
 
 
 For the edit endpoint, an example template for alpaca-based models can be:
@@ -79,7 +79,7 @@ Below is an instruction that describes a task, paired with an input that provide
 
 Instead of installing models manually, you can use the LocalAI API endpoints and a model definition to install programmatically via API models in runtime.
 
-A curated collection of model files is in the [model-gallery](https://github.com/mudler/LocalAI/tree/master/gallery). The files of the model gallery are different from the model files used to configure LocalAI models. The model gallery files contains information about the model setup, and the files necessary to run the model locally.
+A curated collection of model files is in the [model-gallery](https://github.com/BlackRoad-OS/LocalAI/tree/master/gallery). The files of the model gallery are different from the model files used to configure LocalAI models. The model gallery files contains information about the model setup, and the files necessary to run the model locally.
 
 To install for example `lunademo`, you can send a POST call to the `/models/apply` endpoint with the model definition url (`url`) and the name of the model should have in LocalAI (`name`, optional):
 

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/go-skynet/LocalAI/pkg/grpc/proto";
+option go_package = "github.com/BlackRoad-OS/LocalAI/pkg/grpc/proto";
 option java_multiple_files = true;
 option java_package = "io.skynet.localai.backend";
 option java_outer_classname = "LocalAIBackend";

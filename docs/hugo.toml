@@ -30,9 +30,9 @@ enableEmoji = true
 
 [params]
   # Relearn theme parameters
-  editURL = 'https://github.com/mudler/LocalAI/edit/master/docs/content/'
+  editURL = 'https://github.com/BlackRoad-OS/LocalAI/edit/master/docs/content/'
   description = 'LocalAI documentation'
-  author = 'Ettore Di Giacinto'
+  author = 'BlackRoad OS, Inc.'
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false

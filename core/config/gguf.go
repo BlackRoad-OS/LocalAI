@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/mudler/LocalAI/pkg/xsysinfo"
+	"github.com/BlackRoad-OS/LocalAI/pkg/xsysinfo"
 	"github.com/mudler/xlog"
 
 	gguf "github.com/gpustack/gguf-parser-go"

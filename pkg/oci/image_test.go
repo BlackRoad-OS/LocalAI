@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime"
 
-	. "github.com/mudler/LocalAI/pkg/oci" // Update with your module path
+	. "github.com/BlackRoad-OS/LocalAI/pkg/oci" // Update with your module path
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )

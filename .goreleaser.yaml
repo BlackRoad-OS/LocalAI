@@ -13,8 +13,8 @@ builds:
       - CGO_ENABLED=0
     ldflags:
       - -s -w
-      - -X "github.com/mudler/LocalAI/internal.Version={{ .Tag }}"
-      - -X "github.com/mudler/LocalAI/internal.Commit={{ .FullCommit }}"
+      - -X "github.com/BlackRoad-OS/LocalAI/internal.Version={{ .Tag }}"
+      - -X "github.com/BlackRoad-OS/LocalAI/internal.Commit={{ .FullCommit }}"
     goos:
       - linux
       - darwin

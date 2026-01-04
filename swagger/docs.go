@@ -15,7 +15,7 @@ const docTemplate = `{
         },
         "license": {
             "name": "MIT",
-            "url": "https://raw.githubusercontent.com/mudler/LocalAI/master/LICENSE"
+            "url": "https://raw.githubusercontent.com/BlackRoad-OS/LocalAI/master/LICENSE"
         },
         "version": "{{.Version}}"
     },

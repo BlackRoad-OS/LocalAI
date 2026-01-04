@@ -1,6 +1,6 @@
 ---
 - name: "rwkv7-g1c-13.3b"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/NaomiBTW/rwkv7-g1c-13.3b-gguf
   description: |
@@ -25,7 +25,7 @@
       sha256: e06b3b31cee207723be00425cfc25ae09b7fa1abbd7d97eda4e62a7ef254f877
       uri: https://huggingface.co/NaomiBTW/rwkv7-g1c-13.3b-gguf/resolve/main/rwkv7-g1c-13.3b-20251231-Q8_0.gguf
 - name: "iquest-coder-v1-40b-instruct-i1"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/IQuest-Coder-V1-40B-Instruct-i1-GGUF
   description: |
@@ -62,7 +62,7 @@
       sha256: 0090b84ea8e5a862352cbb44498bd6b4cd38564834182813c35ed84209050b51
       uri: https://huggingface.co/mradermacher/IQuest-Coder-V1-40B-Instruct-i1-GGUF/resolve/main/IQuest-Coder-V1-40B-Instruct.i1-Q4_K_M.gguf
 - name: "onerec-8b"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/OneRec-8B-GGUF
   description: |
@@ -95,7 +95,7 @@
       sha256: f19217971ee5a7a909c9217a79d09fb573380f5018e25dcb32693139e59b434f
       uri: https://huggingface.co/mradermacher/OneRec-8B-GGUF/resolve/main/OneRec-8B.Q4_K_M.gguf
 - name: "minimax-m2.1-i1"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/MiniMax-M2.1-i1-GGUF
   description: |
@@ -127,7 +127,7 @@
       sha256: dba387e17ddd9b4559fb6f14459fcece7f00c66bbe4062d7ceea7fb9568e3282
       uri: https://huggingface.co/mradermacher/MiniMax-M2.1-i1-GGUF/resolve/main/MiniMax-M2.1.i1-Q4_K_M.gguf
 - name: "tildeopen-30b-instruct-lv-i1"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/TildeOpen-30B-Instruct-LV-i1-GGUF
   description: |
@@ -152,7 +152,7 @@
       sha256: 48ed550e9ce7278ac456a43634c2a5804ba273522021434dfa0aa85dda3167b3
       uri: https://huggingface.co/mradermacher/TildeOpen-30B-Instruct-LV-i1-GGUF/resolve/main/TildeOpen-30B-Instruct-LV.i1-Q4_K_M.gguf
 - name: "allenai_olmo-3.1-32b-think"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/bartowski/allenai_Olmo-3.1-32B-Think-GGUF
   description: |
@@ -191,7 +191,7 @@
       sha256: 09ca87494efb75f6658a0c047414cccc5fb29d26a49c650a90af7c8f0412fdac
       uri: https://huggingface.co/bartowski/allenai_Olmo-3.1-32B-Think-GGUF/resolve/main/allenai_Olmo-3.1-32B-Think-Q4_K_M.gguf
 - name: "huihui-glm-4.6v-flash-abliterated"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/huihui-ai/Huihui-GLM-4.6V-Flash-abliterated-GGUF
   description: |
@@ -245,7 +245,7 @@
       sha256: 1044beaf5cb799d309b1252ac149a985b69f1cf0391f7c8c54e7aed267bc98a9
       uri: https://huggingface.co/huihui-ai/Huihui-GLM-4.6V-Flash-abliterated-GGUF/resolve/main/mmproj-model-f16.gguf
 - name: "qwen3-coder-30b-a3b-instruct-rtpurbo-i1"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/Qwen3-Coder-30B-A3B-Instruct-RTPurbo-i1-GGUF
   description: |
@@ -277,7 +277,7 @@
       sha256: a25f1817a557da703ab685e6b98550cd7ed87e4a74573b5057e6e2f26b21140e
       uri: https://huggingface.co/mradermacher/Qwen3-Coder-30B-A3B-Instruct-RTPurbo-i1-GGUF/resolve/main/Qwen3-Coder-30B-A3B-Instruct-RTPurbo.i1-Q4_K_M.gguf
 - name: "glm-4.5v-i1"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://huggingface.co/mradermacher/GLM-4.5V-i1-GGUF
   description: |
@@ -319,7 +319,7 @@
       sha256: 0d5786b78b73997f46c11ba2cc11d0f5a36644db0c248caa82fad3fb6f30be1a
       uri: https://huggingface.co/mradermacher/GLM-4.5V-i1-GGUF/resolve/main/GLM-4.5V.i1-Q4_K_M.gguf
 - &vibevoice
-  url: "github:mudler/LocalAI/gallery/vibevoice.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/vibevoice.yaml@master"
   icon: https://github.com/microsoft/VibeVoice/raw/main/Figures/VibeVoice_logo_white.png
   license: mit
   tags:
@@ -352,7 +352,7 @@
       uri: https://raw.githubusercontent.com/microsoft/VibeVoice/main/demo/voices/streaming_model/en-Davis_man.pt
       sha256: 67561d63bfa2153616e4c02fd967007c182593fc53738a6ad94bf5f84e8832ac
 - &qwen3vl
-  url: "github:mudler/LocalAI/gallery/qwen3.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen3.yaml@master"
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png
   license: apache-2.0
   tags:
@@ -536,7 +536,7 @@
 - &jamba
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/65e60c0ed5313c06372446ff/QwehUHgP2HtVAMW5MzJ2j.png
   name: "ai21labs_ai21-jamba-reasoning-3b"
-  url: "github:mudler/LocalAI/gallery/jamba.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/jamba.yaml@master"
   license: apache-2.0
   tags:
     - gguf
@@ -559,7 +559,7 @@
       sha256: ac7ec0648dea62d1efb5ef6e7268c748ffc71f1c26eebe97eccff0a8d41608e6
       uri: huggingface://bartowski/ai21labs_AI21-Jamba-Reasoning-3B-GGUF/ai21labs_AI21-Jamba-Reasoning-3B-Q4_K_M.gguf
 - &granite4
-  url: "github:mudler/LocalAI/gallery/granite4.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/granite4.yaml@master"
   name: "ibm-granite_granite-4.0-h-small"
   license: apache-2.0
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png
@@ -623,7 +623,7 @@
       sha256: bd9d7b4795b9dc44e3e81aeae93bb5d8e6b891b7e823be5bf9910ed3ac060baf
       uri: huggingface://bartowski/ibm-granite_granite-4.0-micro-GGUF/ibm-granite_granite-4.0-micro-Q4_K_M.gguf
 - &ernie
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "baidu_ernie-4.5-21b-a3b-thinking"
   license: apache-2.0
   tags:
@@ -671,7 +671,7 @@
       uri: huggingface://bartowski/Aurore-Reveil_Koto-Small-7B-IT-GGUF/Aurore-Reveil_Koto-Small-7B-IT-Q4_K_M.gguf
 - &internvl35
   name: "opengvlab_internvl3_5-30b-a3b"
-  url: "github:mudler/LocalAI/gallery/qwen3.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen3.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/64006c09330a45b03605bba3/zJsd2hqd3EevgXo6fNgC-.png
   urls:
     - https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B
@@ -826,7 +826,7 @@
       sha256: e83ba6e675b747f7801557dc24594f43c17a7850b6129d4972d55e3e9b010359
       uri: huggingface://bartowski/OpenGVLab_InternVL3_5-8B-GGUF/mmproj-OpenGVLab_InternVL3_5-2B-f16.gguf
 - &lfm2
-  url: "github:mudler/LocalAI/gallery/lfm.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/lfm.yaml@master"
   name: "lfm2-vl-450m"
   license: lfm1.0
   tags:
@@ -1004,7 +1004,7 @@
       sha256: efb59182eca2424126e9f8bde8513a1736e92d3b9a3187a2afc67968bd44512a
       uri: huggingface://bartowski/LiquidAI_LFM2-8B-A1B-GGUF/LiquidAI_LFM2-8B-A1B-Q4_K_M.gguf
 - name: "kokoro"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://github.com/hexgrad/kokoro
   license: apache-2.0
@@ -1036,7 +1036,7 @@
     known_usecases:
       - tts
 - name: "kitten-tts"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://github.com/KittenML/KittenTTS
   license: apache-2.0
@@ -1059,7 +1059,7 @@
       - tts
 - &qwenimage
   name: "qwen-image"
-  url: "github:mudler/LocalAI/gallery/qwen-image.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen-image.yaml@master"
   urls:
     - https://huggingface.co/Qwen/Qwen-Image
   icon: https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_logo.png
@@ -1072,7 +1072,7 @@
     We are thrilled to release Qwen-Image, an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing. Experiments show strong general capabilities in both image generation and editing, with exceptional performance in text rendering, especially for Chinese.
 - !!merge <<: *qwenimage
   name: "qwen-image-edit"
-  url: "github:mudler/LocalAI/gallery/qwen-image.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen-image.yaml@master"
   urls:
     - https://huggingface.co/Qwen/Qwen-Image-Edit
   icon: https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_edit_logo.png
@@ -1092,7 +1092,7 @@
       enable_parameters: num_inference_steps,image
 - !!merge <<: *qwenimage
   name: "qwen-image-edit-2509"
-  url: "github:mudler/LocalAI/gallery/qwen-image.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen-image.yaml@master"
   urls:
     - https://huggingface.co/Qwen/Qwen-Image-Edit-2509
   icon: https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_edit_logo.png
@@ -1112,7 +1112,7 @@
       enable_parameters: num_inference_steps,image
 - &gptoss
   name: "gpt-oss-20b"
-  url: "github:mudler/LocalAI/gallery/harmony.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/harmony.yaml@master"
   license: apache-2.0
   tags:
     - gguf
@@ -1153,7 +1153,7 @@
       sha256: be37a636aca0fc1aae0d32325f82f6b4d21495f06823b5fbc1898ae0303e9935
 - !!merge <<: *gptoss
   name: "gpt-oss-120b"
-  url: "github:mudler/LocalAI/gallery/harmony.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/harmony.yaml@master"
   icon: https://raw.githubusercontent.com/openai/gpt-oss/main/docs/gpt-oss-120b.svg
   urls:
     - https://huggingface.co/openai/gpt-oss-120b
@@ -1236,7 +1236,7 @@
       sha256: 274ffaaf0783270c071006842ffe60af73600fc63c2b6153c0701b596fc3b122
       uri: huggingface://DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf/OpenAI-20B-NEOPlus-Uncensored-IQ4_NL.gguf
 - name: "chatterbox"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   icon: https://private-user-images.githubusercontent.com/660224/448166653-bd8c5f03-e91d-4ee5-b680-57355da204d1.png
   license: "mit"
   urls:
@@ -1254,7 +1254,7 @@
     known_usecases:
       - tts
 - name: "dia"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   icon: https://github.com/nari-labs/dia/raw/main/dia/static/images/banner.png
   urls:
     - https://github.com/nari-labs/dia
@@ -1275,7 +1275,7 @@
     known_usecases:
       - tts
 - name: "outetts"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   urls:
     - https://github.com/edwko/OuteTTS
   license: apache-2.0
@@ -1294,7 +1294,7 @@
       - tts
 - &afm
   name: "arcee-ai_afm-4.5b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/Lj9YVLIKKdImV_jID0A1g.png
   license: aml
   urls:
@@ -1322,7 +1322,7 @@
       uri: huggingface://bartowski/arcee-ai_AFM-4.5B-GGUF/arcee-ai_AFM-4.5B-Q4_K_M.gguf
 - &rfdetr
   name: "rfdetr-base"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   icon: https://avatars.githubusercontent.com/u/53104118?s=200&v=4
   license: apache-2.0
   description: |
@@ -1344,7 +1344,7 @@
       - detection
 - name: "dream-org_dream-v0-instruct-7b"
   # chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   license: apache-2.0
   tags:
     - diffusion-large-language-model
@@ -1366,7 +1366,7 @@
       uri: huggingface://bartowski/Dream-org_Dream-v0-Instruct-7B-GGUF/Dream-org_Dream-v0-Instruct-7B-Q4_K_M.gguf
 - &smollm3
   name: "huggingfacetb_smollm3-3b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   license: apache-2.0
   icon: https://cdn-uploads.huggingface.co/production/uploads/61c141342aac764ce1654e43/zy0dqTCCt5IHmuzwoqtJ9.png
   urls:
@@ -1388,7 +1388,7 @@
     - filename: HuggingFaceTB_SmolLM3-3B-Q4_K_M.gguf
       uri: huggingface://bartowski/HuggingFaceTB_SmolLM3-3B-GGUF/HuggingFaceTB_SmolLM3-3B-Q4_K_M.gguf
       sha256: 519732558d5fa7420ab058e1b776dcfe73da78013c2fe59c7ca43c325ef89132
-- url: "github:mudler/LocalAI/gallery/moondream.yaml@master"
+- url: "github:BlackRoad-OS/LocalAI/gallery/moondream.yaml@master"
   license: apache-2.0
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/65df6605dba41b152100edf9/LEUWPRTize9N7dMShjcPC.png
   description: |
@@ -1418,7 +1418,7 @@
       sha256: 4cc1cb3660d87ff56432ebeb7884ad35d67c48c7b9f6b2856f305e39c38eed8f
       uri: https://huggingface.co/ggml-org/moondream2-20250414-GGUF/resolve/main/moondream2-mmproj-f16-20250414.gguf
 - icon: https://raw.githubusercontent.com/Anditty/OASIS/refs/heads/main/Group.svg
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   tags:
     - gguf
     - gpu
@@ -1440,7 +1440,7 @@
       sha256: 3004a61c8aa376d97b6dcfec458344f6c443a416591b2c7235fec09f4c78642d
       uri: huggingface://bartowski/Kwaipilot_KwaiCoder-AutoThink-preview-GGUF/Kwaipilot_KwaiCoder-AutoThink-preview-Q4_K_M.gguf
 - &smolvlm
-  url: "github:mudler/LocalAI/gallery/smolvlm.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/smolvlm.yaml@master"
   name: "smolvlm-256m-instruct"
   icon: https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/SmolVLM_256_banner.png
   urls:
@@ -1566,7 +1566,7 @@
       sha256: d34913a588464ff7215f086193e0426a4f045eaba74456ee5e2667d8ed6798b1
       uri: huggingface://ggml-org/SmolVLM2-256M-Video-Instruct-GGUF/mmproj-SmolVLM2-256M-Video-Instruct-Q8_0.gguf
 - &qwen3
-  url: "github:mudler/LocalAI/gallery/qwen3.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen3.yaml@master"
   name: "qwen3-30b-a3b"
   urls:
     - https://huggingface.co/Qwen/Qwen3-30B-A3B
@@ -2498,7 +2498,7 @@
 - !!merge <<: *qwen3
   name: "openbuddy_openbuddy-r1-0528-distill-qwen3-32b-preview0-qat"
   icon: https://raw.githubusercontent.com/OpenBuddy/OpenBuddy/main/media/demo.png
-  url: "github:mudler/LocalAI/gallery/qwen3-openbuddy.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen3-openbuddy.yaml@master"
   urls:
     - https://huggingface.co/OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QAT
     - https://huggingface.co/bartowski/OpenBuddy_OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QAT-GGUF
@@ -3384,7 +3384,7 @@
       sha256: 31ec697ccebbd7928c49714b8a0ec8be747be0f7c1ad71627967d2f8fe376990
       uri: huggingface://mradermacher/Qwen3-Stargate-SG1-Uncensored-Abliterated-8B-i1-GGUF/Qwen3-Stargate-SG1-Uncensored-Abliterated-8B.i1-Q4_K_M.gguf
 - !!merge <<: *qwen3
-  url: "github:mudler/LocalAI/gallery/qwen3-deepresearch.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/qwen3-deepresearch.yaml@master"
   name: "alibaba-nlp_tongyi-deepresearch-30b-a3b"
   urls:
     - https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B
@@ -3629,7 +3629,7 @@
       sha256: 11e6c068351d104dee31dd63550e5e2fc9be70467c1cfc07a6f84030cb701537
       uri: huggingface://mradermacher/boomerang-qwen3-4.9B-GGUF/boomerang-qwen3-4.9B.Q4_K_M.gguf
 - &gemma3
-  url: "github:mudler/LocalAI/gallery/gemma.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/gemma.yaml@master"
   name: "gemma-3-27b-it"
   icon: https://ai.google.dev/static/gemma/images/gemma3.png
   license: gemma
@@ -4630,7 +4630,7 @@
       sha256: 6deb401a296dbb9f02fee0442e4e54bbc3c8208daca7cef7a207536d311a85e3
       uri: huggingface://mradermacher/Mira-v1.7-27B-i1-GGUF/Mira-v1.7-27B.i1-Q4_K_M.gguf
 - &llama4
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master"
   icon: https://avatars.githubusercontent.com/u/153379578
   license: llama4
   tags:
@@ -4655,7 +4655,7 @@
       sha256: 48dfc18d40691b4190b7fecf1f89b78cadc758c3a27a9e2a1cabd686fdb822e3
       uri: huggingface://bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUF/meta-llama_Llama-4-Scout-17B-16E-Instruct-Q3_K_S.gguf
 - name: "jina-reranker-v1-tiny-en"
-  url: "github:mudler/LocalAI/gallery/virtual.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master"
   tags:
     - reranker
     - gguf
@@ -4680,7 +4680,7 @@
 - &eurollm
   name: "eurollm-9b-instruct"
   icon: https://openeurollm.eu/_next/static/media/logo-dark.e7001867.svg
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   license: apache-2.0
   tags:
     - llm
@@ -4703,7 +4703,7 @@
       uri: huggingface://bartowski/EuroLLM-9B-Instruct-GGUF/EuroLLM-9B-Instruct-Q4_K_M.gguf
 - &falcon3
   name: "falcon3-1b-instruct"
-  url: "github:mudler/LocalAI/gallery/falcon3.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/falcon3.yaml@master"
   icon: https://huggingface.co/datasets/tiiuae/documentation-images/resolve/main/general/falco3-logo.png
   urls:
     - https://huggingface.co/tiiuae/Falcon3-1B-Instruct
@@ -4812,7 +4812,7 @@
       uri: huggingface://bartowski/Falcon3-7B-Instruct-abliterated-GGUF/Falcon3-7B-Instruct-abliterated-Q4_K_M.gguf
 - !!merge <<: *falcon3
   name: "nightwing3-10b-v0.1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/642265bc01c62c1e4102dc36/C6gY9vxCl3_SFzQLpLG0S.png
   urls:
     - https://huggingface.co/Nitral-AI/NightWing3-10B-v0.1
@@ -4857,7 +4857,7 @@
       uri: huggingface://bartowski/suayptalha_Maestro-10B-GGUF/suayptalha_Maestro-10B-Q4_K_M.gguf
 - &intellect1
   name: "intellect-1-instruct"
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master"
   icon: https://huggingface.co/PrimeIntellect/INTELLECT-1-Instruct/resolve/main/intellect-1-map.png
   urls:
     - https://huggingface.co/PrimeIntellect/INTELLECT-1-Instruct
@@ -4881,7 +4881,7 @@
       sha256: 5df236fe570e5998d07fb3207788eac811ef3b77dd2a0ad04a2ef5c6361f3030
       uri: huggingface://bartowski/INTELLECT-1-Instruct-GGUF/INTELLECT-1-Instruct-Q4_K_M.gguf
 - &intellect2
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/64a32edf17b9f57eaec2ea65/KxI7k7byQs4ATme0naIzV.png
   tags:
     - llm
@@ -4906,7 +4906,7 @@
       sha256: b6765c8d5ec01c20b26f25c8aa66f48c282052db13ad82cffce60b5d0cb9a217
       uri: huggingface://bartowski/PrimeIntellect_INTELLECT-2-GGUF/PrimeIntellect_INTELLECT-2-Q4_K_M.gguf
 - &llama33
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master"
   icon: https://avatars.githubusercontent.com/u/153379578
   license: llama3.3
   description: |
@@ -5861,7 +5861,7 @@
       sha256: 55fad5010cb16193ca05a90ef5a76d06de79cd5fd7d16ff474ca4ddb008dbe75
       uri: huggingface://bartowski/invisietch_L3.3-Ignition-v0.1-70B-GGUF/invisietch_L3.3-Ignition-v0.1-70B-Q4_K_M.gguf
 - &rwkv
-  url: "github:mudler/LocalAI/gallery/rwkv.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/rwkv.yaml@master"
   name: "rwkv-6-world-7b"
   icon: https://avatars.githubusercontent.com/u/132652788
   license: apache-2.0
@@ -5887,7 +5887,7 @@
 - &opencoder
   name: "opencoder-8b-base"
   icon: https://avatars.githubusercontent.com/u/186387526
-  url: "github:mudler/LocalAI/gallery/codellama.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/codellama.yaml@master"
   urls:
     - https://huggingface.co/infly/OpenCoder-8B-Base
     - https://huggingface.co/QuantFactory/OpenCoder-8B-Base-GGUF
@@ -5908,7 +5908,7 @@
       sha256: ed158a6f72a40cf4f3f4569f649b365f5851e93f03b56252af3906515fab94ec
       uri: huggingface://QuantFactory/OpenCoder-8B-Base-GGUF/OpenCoder-8B-Base.Q4_K_M.gguf
 - !!merge <<: *opencoder
-  url: "github:mudler/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
   name: "opencoder-8b-instruct"
   urls:
     - https://huggingface.co/infly/OpenCoder-8B-Instruct
@@ -5938,7 +5938,7 @@
       uri: huggingface://QuantFactory/OpenCoder-1.5B-Base-GGUF/OpenCoder-1.5B-Base.Q4_K_M.gguf
 - !!merge <<: *opencoder
   name: "opencoder-1.5b-instruct"
-  url: "github:mudler/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
   urls:
     - https://huggingface.co/QuantFactory/OpenCoder-1.5B-Instruct-GGUF
   description: |
@@ -5963,7 +5963,7 @@
     - filename: granite-3.0-1b-a400m-instruct.Q4_K_M.gguf
       sha256: 9571b5fc9676ebb59def3377dc848584463fb7f09ed59ebbff3b9f72fd7bd38a
       uri: huggingface://QuantFactory/granite-3.0-1b-a400m-instruct-GGUF/granite-3.0-1b-a400m-instruct.Q4_K_M.gguf
-  url: "github:mudler/LocalAI/gallery/granite.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/granite.yaml@master"
   description: |
     Granite 3.0 language models are a new set of lightweight state-of-the-art, open foundation models that natively support multilinguality, coding, reasoning, and tool usage, including the potential to be run on constrained compute resources. All the models are publicly released under an Apache 2.0 license for both research and commercial use. The models' data curation and training procedure were designed for enterprise usage and customization in mind, with a process that evaluates datasets for governance, risk and compliance (GRC) criteria, in addition to IBM's standard data clearance process and document quality checks.
     Granite 3.0 includes 4 different models of varying sizes:
@@ -5980,7 +5980,7 @@
 - !!merge <<: *granite3
   name: "moe-girl-800ma-3bt"
   icon: https://huggingface.co/allura-org/MoE-Girl-800MA-3BT/resolve/main/moe-girl-800-3.png
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/allura-org/MoE-Girl-800MA-3BT
     - https://huggingface.co/mradermacher/MoE-Girl-800MA-3BT-GGUF
@@ -5997,7 +5997,7 @@
       sha256: 4c3cb57c27aadabd05573a1a01d6c7aee0f21620db919c7704f758d172e0bfa3
       uri: huggingface://mradermacher/MoE-Girl-800MA-3BT-GGUF/MoE-Girl-800MA-3BT.Q4_K_M.gguf
 - !!merge <<: *granite3
-  url: "github:mudler/LocalAI/gallery/granite3-2.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/granite3-2.yaml@master"
   name: "ibm-granite_granite-3.2-8b-instruct"
   urls:
     - https://huggingface.co/ibm-granite/granite-3.2-8b-instruct
@@ -6013,7 +6013,7 @@
       uri: huggingface://bartowski/ibm-granite_granite-3.2-8b-instruct-GGUF/ibm-granite_granite-3.2-8b-instruct-Q4_K_M.gguf
 - !!merge <<: *granite3
   name: "ibm-granite_granite-3.2-2b-instruct"
-  url: "github:mudler/LocalAI/gallery/granite3-2.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/granite3-2.yaml@master"
   urls:
     - https://huggingface.co/ibm-granite/granite-3.2-2b-instruct
     - https://huggingface.co/bartowski/ibm-granite_granite-3.2-2b-instruct-GGUF
@@ -6027,7 +6027,7 @@
       sha256: e1b915b0849becf4fdda188dee7b09cbebbfabd71c6f3f2b75dd3eca0a8fded1
       uri: huggingface://bartowski/ibm-granite_granite-3.2-2b-instruct-GGUF/ibm-granite_granite-3.2-2b-instruct-Q4_K_M.gguf
 - name: "granite-embedding-107m-multilingual"
-  url: github:mudler/LocalAI/gallery/virtual.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master
   urls:
     - https://huggingface.co/ibm-granite/granite-embedding-107m-multilingual
     - https://huggingface.co/bartowski/granite-embedding-107m-multilingual-GGUF
@@ -6044,7 +6044,7 @@
       uri: huggingface://bartowski/granite-embedding-107m-multilingual-GGUF/granite-embedding-107m-multilingual-f16.gguf
       sha256: 3fc99928632fcecad589c401ec33bbba86b51c457e9813e3a1cb801ff4106e21
 - name: "granite-embedding-125m-english"
-  url: github:mudler/LocalAI/gallery/virtual.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master
   urls:
     - https://huggingface.co/ibm-granite/granite-embedding-125m-english
     - https://huggingface.co/bartowski/granite-embedding-125m-english-GGUF
@@ -6063,7 +6063,7 @@
 - name: "moe-girl-1ba-7bt-i1"
   icon: https://cdn-uploads.huggingface.co/production/uploads/634262af8d8089ebaefd410e/kTXXSSSqpb21rfyOX7FUa.jpeg
   # chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/allura-org/MoE-Girl-1BA-7BT
     - https://huggingface.co/mradermacher/MoE-Girl-1BA-7BT-i1-GGUF
@@ -6080,7 +6080,7 @@
 - name: "salamandra-7b-instruct"
   icon: https://huggingface.co/BSC-LT/salamandra-7b-instruct/resolve/main/images/salamandra_header.png
   # Uses chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   license: apache-2.0
   urls:
     - https://huggingface.co/BSC-LT/salamandra-7b-instruct
@@ -6130,7 +6130,7 @@
       sha256: 555b91485955bc96eb445b57dd4bbf8809aa7d8cce7c313f4f8bc5b2340896b4
       uri: huggingface://bartowski/ibm-granite_granite-3.3-2b-instruct-GGUF/ibm-granite_granite-3.3-2b-instruct-Q4_K_M.gguf
 - &llama32
-  url: "github:mudler/LocalAI/gallery/llama3.2-quantized.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.2-quantized.yaml@master"
   icon: https://avatars.githubusercontent.com/u/153379578
   license: llama3.2
   description: |
@@ -6345,7 +6345,7 @@
       uri: huggingface://bartowski/Llama-3.2-3B-Instruct-uncensored-GGUF/Llama-3.2-3B-Instruct-uncensored-Q4_K_M.gguf
 - !!merge <<: *llama32
   name: "calme-3.3-llamaloi-3b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/MaziyarPanahi/calme-3.3-llamaloi-3b/resolve/main/calme_3.png
   urls:
     - https://huggingface.co/MaziyarPanahi/calme-3.3-llamaloi-3b
@@ -6361,7 +6361,7 @@
       uri: huggingface://MaziyarPanahi/calme-3.3-llamaloi-3b-GGUF/calme-3.3-llamaloi-3b.Q5_K_M.gguf
 - !!merge <<: *llama32
   name: "calme-3.2-llamaloi-3b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/MaziyarPanahi/calme-3.3-llamaloi-3b/resolve/main/calme_3.png
   urls:
     - https://huggingface.co/MaziyarPanahi/calme-3.2-llamaloi-3b
@@ -6377,7 +6377,7 @@
       uri: huggingface://MaziyarPanahi/calme-3.2-llamaloi-3b-GGUF/calme-3.2-llamaloi-3b.Q5_K_M.gguf
 - !!merge <<: *llama32
   name: "calme-3.1-llamaloi-3b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/MaziyarPanahi/calme-3.3-llamaloi-3b/resolve/main/calme_3.png
   urls:
     - https://huggingface.co/MaziyarPanahi/calme-3.1-llamaloi-3b
@@ -6584,7 +6584,7 @@
       uri: huggingface://prithivMLmods/Llama-Deepsync-3B-GGUF/Llama-Deepsync-3B.Q4_K_M.gguf
 - !!merge <<: *llama32
   name: "dolphin3.0-llama3.2-1b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/cNCs1TBD3FelWCJGkZ3cd.png
   urls:
     - https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.2-1B
@@ -6610,7 +6610,7 @@
 - !!merge <<: *llama32
   name: "dolphin3.0-llama3.2-3b"
   icon: https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/cNCs1TBD3FelWCJGkZ3cd.png
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.2-3B
     - https://huggingface.co/bartowski/Dolphin3.0-Llama3.2-3B-GGUF
@@ -6663,9 +6663,9 @@
 - !!merge <<: *llama32
   icon: https://cdn-uploads.huggingface.co/production/uploads/647374aa7ff32a81ac6d35d4/Dzbdzn27KEc3K6zNNi070.png
   name: "LocalAI-functioncall-llama3.2-1b-v0.4"
-  url: "github:mudler/LocalAI/gallery/llama3.2-fcall.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.2-fcall.yaml@master"
   urls:
-    - https://huggingface.co/mudler/LocalAI-functioncall-llama3.2-1b-v0.4
+    - https://huggingface.co/BlackRoad-OS/LocalAI-functioncall-llama3.2-1b-v0.4
     - https://huggingface.co/mradermacher/LocalAI-functioncall-llama3.2-1b-v0.4-GGUF
   description: |
     A model tailored to be conversational and execute function calls with LocalAI. This model is based on llama 3.2 and has 1B parameter. Perfect for small devices.
@@ -6694,8 +6694,8 @@
   name: "LocalAI-functioncall-llama3.2-3b-v0.5"
   icon: https://cdn-uploads.huggingface.co/production/uploads/647374aa7ff32a81ac6d35d4/Dzbdzn27KEc3K6zNNi070.png
   urls:
-    - https://huggingface.co/mudler/LocalAI-functioncall-llama3.2-3b-v0.5
-    - https://huggingface.co/mudler/LocalAI-functioncall-llama3.2-3b-v0.5-Q4_K_M-GGUF
+    - https://huggingface.co/BlackRoad-OS/LocalAI-functioncall-llama3.2-3b-v0.5
+    - https://huggingface.co/BlackRoad-OS/LocalAI-functioncall-llama3.2-3b-v0.5-Q4_K_M-GGUF
   description: |
     A model tailored to be conversational and execute function calls with LocalAI. This model is based on llama3.2 (3B).
   overrides:
@@ -6704,7 +6704,7 @@
   files:
     - filename: localai-functioncall-llama3.2-3b-v0.5-q4_k_m.gguf
       sha256: edc50f6c243e6bd6912599661a15e030de03d2be53409663ac27d3ca48306ee4
-      uri: huggingface://mudler/LocalAI-functioncall-llama3.2-3b-v0.5-Q4_K_M-GGUF/localai-functioncall-llama3.2-3b-v0.5-q4_k_m.gguf
+      uri: huggingface://BlackRoad-OS/LocalAI-functioncall-llama3.2-3b-v0.5-Q4_K_M-GGUF/localai-functioncall-llama3.2-3b-v0.5-q4_k_m.gguf
 - !!merge <<: *llama32
   name: "kubeguru-llama3.2-3b-v0.1"
   icon: https://cdn-uploads.huggingface.co/production/uploads/647374aa7ff32a81ac6d35d4/rptpRyhrcUEG3i2OPT897.png
@@ -6900,7 +6900,7 @@
       sha256: 2756551de7d8ff7093c2c5eec1cd00f1868bc128433af53f5a8d434091d4eb5a
       uri: huggingface://Triangle104/Nano_Imp_1B-Q8_0-GGUF/nano_imp_1b-q8_0.gguf
 - &smollm
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master" ## SmolLM
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master" ## SmolLM
   name: "smollm-1.7b-instruct"
   icon: https://huggingface.co/datasets/HuggingFaceTB/images/resolve/main/banner_smol.png
   tags:
@@ -6944,7 +6944,7 @@
       sha256: decd2598bc2c8ed08c19adc3c8fdd461ee19ed5708679d1c54ef54a5a30d4f33
       uri: huggingface://HuggingFaceTB/SmolLM2-1.7B-Instruct-GGUF/smollm2-1.7b-instruct-q4_k_m.gguf
 - &llama31
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master" ## LLama3.1
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master" ## LLama3.1
   icon: https://avatars.githubusercontent.com/u/153379578
   name: "meta-llama-3.1-8b-instruct"
   license: llama3.1
@@ -6984,7 +6984,7 @@
       uri: huggingface://MaziyarPanahi/Meta-Llama-3.1-70B-Instruct-GGUF/Meta-Llama-3.1-70B-Instruct.Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "meta-llama-3.1-8b-instruct:grammar-functioncall"
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct-grammar.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct-grammar.yaml@master"
   urls:
     - https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct
     - https://huggingface.co/MaziyarPanahi/Meta-Llama-3.1-8B-Instruct-GGUF
@@ -7002,7 +7002,7 @@
       uri: huggingface://MaziyarPanahi/Meta-Llama-3.1-8B-Instruct-GGUF/Meta-Llama-3.1-8B-Instruct.Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "meta-llama-3.1-8b-instruct:Q8_grammar-functioncall"
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct-grammar.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct-grammar.yaml@master"
   urls:
     - https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct
     - https://huggingface.co/MaziyarPanahi/Meta-Llama-3.1-8B-Instruct-GGUF
@@ -7324,7 +7324,7 @@
       uri: huggingface://mudler/Llama-3.1-Storm-8B-Q4_K_M-GGUF/llama-3.1-storm-8b-q4_k_m.gguf
 - !!merge <<: *llama31
   name: "hubble-4b-v1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/65f2fd1c25b848bd061b5c2e/R8_o3CCpTgKv5Wnnry7E_.png
   urls:
     - https://huggingface.co/TheDrummer/Hubble-4B-v1-GGUF
@@ -7356,7 +7356,7 @@
       uri: huggingface://senseable/Reflection-Llama-3.1-70B-gguf/Reflection-Llama-3.1-70B-q4_k_m.gguf
 - !!merge <<: *llama31
   name: "llama-3.1-supernova-lite-reflection-v1.0-i1"
-  url: "github:mudler/LocalAI/gallery/llama3.1-reflective.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-reflective.yaml@master"
   urls:
     - https://huggingface.co/SE6446/Llama-3.1-SuperNova-Lite-Reflection-V1.0
     - https://huggingface.co/mradermacher/Llama-3.1-SuperNova-Lite-Reflection-V1.0-i1-GGUF
@@ -7655,7 +7655,7 @@
       sha256: 7bbac0849a8da82e7912a493a15fa07d605f1ffbe7337a322f17e09195511022
       uri: huggingface://mradermacher/Cathallama-70B-GGUF/Cathallama-70B.Q4_K_M.gguf
 - !!merge <<: *llama31
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mahou-1.3-llama3.1-8b"
   icon: https://huggingface.co/flammenai/Mahou-1.0-mistral-7B/resolve/main/mahou1.png
   urls:
@@ -7673,7 +7673,7 @@
 - !!merge <<: *llama31
   name: "azure_dusk-v0.2-iq-imatrix"
   # chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/65d4cf2693a0a3744a27536c/n3-g_YTk3FY-DBzxXd28E.png
   urls:
     - https://huggingface.co/Lewdiculous/Azure_Dusk-v0.2-GGUF-IQ-Imatrix
@@ -7769,7 +7769,7 @@
       uri: huggingface://bartowski/Llama-3.1-8B-ArliAI-RPMax-v1.1-GGUF/Llama-3.1-8B-ArliAI-RPMax-v1.1-Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "violet_twilight-v0.2-iq-imatrix"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/64adfd277b5ff762771e4571/P962FQhRG4I8nbU_DJolY.png
   urls:
     - https://huggingface.co/Epiculous/Violet_Twilight-v0.2
@@ -7784,7 +7784,7 @@
       sha256: 0793d196a00cd6fd4e67b8c585b27a94d397e33d427e4ad4aa9a16b7abc339cd
       uri: huggingface://Lewdiculous/Violet_Twilight-v0.2-GGUF-IQ-Imatrix/Violet_Twilight-v0.2-Q4_K_M-imat.gguf
 - !!merge <<: *llama31
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "dans-personalityengine-v1.0.0-8b"
   urls:
     - https://huggingface.co/PocketDoc/Dans-PersonalityEngine-v1.0.0-8b
@@ -7832,7 +7832,7 @@
 - !!merge <<: *llama31
   name: "llama3.1-gutenberg-doppel-70b"
   # chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/nbeerbower/Mistral-Small-Gutenberg-Doppel-22B/resolve/main/doppel-header?download=true
   urls:
     - https://huggingface.co/nbeerbower/Llama3.1-Gutenberg-Doppel-70B
@@ -7848,7 +7848,7 @@
       uri: huggingface://mradermacher/Llama3.1-Gutenberg-Doppel-70B-GGUF/Llama3.1-Gutenberg-Doppel-70B.Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "llama-3.1-8b-arliai-formax-v1.0-iq-arm-imatrix"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://iili.io/2HmlLn2.md.png
   urls:
     - https://huggingface.co/Lewdiculous/Llama-3.1-8B-ArliAI-Formax-v1.0-GGUF-IQ-ARM-Imatrix
@@ -7954,7 +7954,7 @@
       uri: huggingface://mradermacher/Astral-Fusion-Neural-Happy-L3.1-8B-GGUF/Astral-Fusion-Neural-Happy-L3.1-8B.Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "mahou-1.5-llama3.1-70b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/flammenai/Mahou-1.0-mistral-7B/resolve/main/mahou1.png
   urls:
     - https://huggingface.co/flammenai/Mahou-1.5-llama3.1-70B
@@ -8293,7 +8293,7 @@
       uri: huggingface://bartowski/L3.1-MS-Astoria-70b-v2-GGUF/L3.1-MS-Astoria-70b-v2-Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "magnum-v2-4b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/658a46cbfb9c2bdfae75b3a6/9JwXZze4tHRGpc_RzE2AU.png
   urls:
     - https://huggingface.co/anthracite-org/magnum-v2-4b
@@ -8807,7 +8807,7 @@
       uri: huggingface://QuantFactory/Llama3.1-8B-PRM-Deepseek-Data-GGUF/Llama3.1-8B-PRM-Deepseek-Data.Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "dolphin3.0-llama3.1-8b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/cNCs1TBD3FelWCJGkZ3cd.png
   urls:
     - https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B
@@ -8887,7 +8887,7 @@
       uri: huggingface://bartowski/ilsp_Llama-Krikri-8B-Instruct-GGUF/ilsp_Llama-Krikri-8B-Instruct-Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "nousresearch_deephermes-3-llama-3-8b-preview"
-  url: "github:mudler/LocalAI/gallery/deephermes.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/deephermes.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/9fxlaDxteqe3SasZ7_06_.jpeg
   urls:
     - https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview
@@ -9104,7 +9104,7 @@
       uri: huggingface://bartowski/deepcogito_cogito-v1-preview-llama-8B-GGUF/deepcogito_cogito-v1-preview-llama-8B-Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "hamanasu-adventure-4b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/66c26b6fb01b19d8c3c2467b/o5WjJKA9f95ri9UzRxZQE.png
   urls:
     - https://huggingface.co/Delta-Vector/Hamanasu-Adventure-4B
@@ -9122,7 +9122,7 @@
       uri: huggingface://mradermacher/Hamanasu-Adventure-4B-i1-GGUF/Hamanasu-Adventure-4B.i1-Q4_K_M.gguf
 - !!merge <<: *llama31
   name: "hamanasu-magnum-4b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/66c26b6fb01b19d8c3c2467b/o5WjJKA9f95ri9UzRxZQE.png
   urls:
     - https://huggingface.co/Delta-Vector/Hamanasu-Magnum-4B
@@ -9467,7 +9467,7 @@
       sha256: ab9b59dd1df27c039952915aa4669a82b5f45e5e9532b98679c65dffe2fe9ee2
       uri: huggingface://bartowski/NousResearch_Hermes-4-70B-GGUF/NousResearch_Hermes-4-70B-Q4_K_M.gguf
 - &deepseek
-  url: "github:mudler/LocalAI/gallery/deepseek.yaml@master" ## Deepseek
+  url: "github:BlackRoad-OS/LocalAI/gallery/deepseek.yaml@master" ## Deepseek
   name: "deepseek-coder-v2-lite-instruct"
   icon: "https://avatars.githubusercontent.com/u/148330874"
   license: deepseek
@@ -9505,7 +9505,7 @@
       sha256: 71b94496be79e5bc45c23d6aa6c242f5f1d3625b4f00fe91d781d381ef35c538
       uri: huggingface://mradermacher/CursorCore-DS-6.7B-i1-GGUF/CursorCore-DS-6.7B.i1-Q4_K_M.gguf
 - name: "archangel_sft_pythia2-8b"
-  url: "github:mudler/LocalAI/gallery/tuluv2.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/tuluv2.yaml@master"
   icon: https://gist.github.com/assets/29318529/fe2d8391-dbd1-4b7e-9dc4-7cb97e55bc06
   license: apache-2.0
   urls:
@@ -9532,7 +9532,7 @@
       sha256: a47782c55ef2b39b19644213720a599d9849511a73c9ebb0c1de749383c0a0f8
       uri: huggingface://RichardErkhov/ContextualAI_-_archangel_sft_pythia2-8b-gguf/archangel_sft_pythia2-8b.Q4_K_M.gguf
 - &deepseek-r1
-  url: "github:mudler/LocalAI/gallery/deepseek-r1.yaml@master" ## Start DeepSeek-R1
+  url: "github:BlackRoad-OS/LocalAI/gallery/deepseek-r1.yaml@master" ## Start DeepSeek-R1
   name: "deepseek-r1-distill-qwen-1.5b"
   icon: "https://avatars.githubusercontent.com/u/148330874"
   urls:
@@ -10143,7 +10143,7 @@
       sha256: e0c2f118fd59f3a16f20d18b0e7f79e960c84bc8c66d94fd71a691e05151d54f
       uri: huggingface://bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-Q4_K_M.gguf
 - &mistral03
-  url: "github:mudler/LocalAI/gallery/mistral-0.3.yaml@master" ## START Mistral
+  url: "github:BlackRoad-OS/LocalAI/gallery/mistral-0.3.yaml@master" ## START Mistral
   name: "mistral-7b-instruct-v0.3"
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png
   license: apache-2.0
@@ -10174,7 +10174,7 @@
       uri: "huggingface://MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf"
 - !!merge <<: *mistral03
   name: "mathstral-7b-v0.1-imat"
-  url: "github:mudler/LocalAI/gallery/mathstral.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/mathstral.yaml@master"
   urls:
     - https://huggingface.co/mistralai/mathstral-7B-v0.1
     - https://huggingface.co/InferenceIllusionist/mathstral-7B-v0.1-iMat-GGUF
@@ -10189,7 +10189,7 @@
       uri: huggingface://InferenceIllusionist/mathstral-7B-v0.1-iMat-GGUF/mathstral-7B-v0.1-iMat-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "mahou-1.3d-mistral-7b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/flammenai/Mahou-1.0-mistral-7B/resolve/main/mahou1.png
   urls:
     - https://huggingface.co/flammenai/Mahou-1.3d-mistral-7B
@@ -10204,7 +10204,7 @@
       sha256: 8272f050e36d612ab282e095cb4e775e2c818e7096f8d522314d256923ef6da9
       uri: huggingface://mradermacher/Mahou-1.3d-mistral-7B-i1-GGUF/Mahou-1.3d-mistral-7B.i1-Q4_K_M.gguf
 - name: "einstein-v4-7b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6468ce47e134d050a58aa89c/U0zyXVGj-O8a7KP3BvPue.png
   urls:
     - https://huggingface.co/Weyaxi/Einstein-v4-7B
@@ -10264,7 +10264,7 @@
       sha256: f72299858a07e52be920b86d42ddcfcd5008b961d601ef6fd6a98a3377adccbf
       uri: huggingface://mudler/Lumimaid-v0.2-12B-Q4_K_M-GGUF/lumimaid-v0.2-12b-q4_k_m.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mn-12b-celeste-v1.9"
   icon: https://cdn-uploads.huggingface.co/production/uploads/630cf5d14ca0a22768bbe10c/QcU3xEgVu18jeFtMFxIw-.webp
   urls:
@@ -10284,7 +10284,7 @@
       sha256: 019daeaa63d82d55d1ea623b9c255deea6793af4044bb4994d2b4d09e8959f7b
       uri: huggingface://mradermacher/MN-12B-Celeste-V1.9-GGUF/MN-12B-Celeste-V1.9.Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/65f2fd1c25b848bd061b5c2e/ybqwvRJAtBPqtulQlKW93.gif
   name: "rocinante-12b-v1.1"
   urls:
@@ -10302,7 +10302,7 @@
 - !!merge <<: *mistral03
   name: "pantheon-rp-1.6-12b-nemo"
   icon: https://huggingface.co/Gryphe/Pantheon-RP-1.6-12b-Nemo/resolve/main/Pantheon.png
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/bartowski/Pantheon-RP-1.6-12b-Nemo-GGUF
     - https://huggingface.co/Gryphe/Pantheon-RP-1.6-12b-Nemo
@@ -10341,7 +10341,7 @@
   name: "mn-12b-lyra-v4-iq-imatrix"
   icon: https://cdn-uploads.huggingface.co/production/uploads/65d4cf2693a0a3744a27536c/dVoru83WOpwVjMlgZ_xhA.png
   # chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Lewdiculous/MN-12B-Lyra-v4-GGUF-IQ-Imatrix
   description: |
@@ -10356,7 +10356,7 @@
       uri: huggingface://Lewdiculous/MN-12B-Lyra-v4-GGUF-IQ-Imatrix/MN-12B-Lyra-v4-Q4_K_M-imat.gguf
 - !!merge <<: *mistral03
   name: "magnusintellectus-12b-v1-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/66b564058d9afb7a9d5607d5/hUVJI1Qa4tCMrZWMgYkoD.png
   urls:
     - https://huggingface.co/GalrionSoftworks/MagnusIntellectus-12B-v1
@@ -10376,7 +10376,7 @@
       sha256: c97107983b4edc5b6f2a592d227ca2dd4196e2af3d3bc0fe6b7a8954a1fb5870
       uri: huggingface://mradermacher/MagnusIntellectus-12B-v1-i1-GGUF/MagnusIntellectus-12B-v1.i1-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mn-backyardai-party-12b-v1-iq-arm-imatrix"
   icon: https://huggingface.co/Sao10K/MN-BackyardAI-Party-12B-v1/resolve/main/party1.png
   urls:
@@ -10397,7 +10397,7 @@
       uri: huggingface://Lewdiculous/MN-BackyardAI-Party-12B-v1-GGUF-IQ-ARM-Imatrix/MN-BackyardAI-Party-12B-v1-Q4_K_M-imat.gguf
 - !!merge <<: *mistral03
   name: "ml-ms-etheris-123b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/64545af5ec40bbbd01242ca6/ieEjL3TxpDM3WAZQcya6E.png
   urls:
     - https://huggingface.co/Steelskull/ML-MS-Etheris-123B
@@ -10438,7 +10438,7 @@
 - !!merge <<: *mistral03
   name: "tor-8b"
   icon: https://huggingface.co/Delta-Vector/Tor-8B/resolve/main/FinalTor8B.jpg
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/QuantFactory/Tor-8B-GGUF
   description: |
@@ -10452,7 +10452,7 @@
       uri: huggingface://QuantFactory/Tor-8B-GGUF/Tor-8B.Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "darkens-8b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Delta-Vector/Darkens-8B
     - https://huggingface.co/QuantFactory/Darkens-8B-GGUF
@@ -10466,7 +10466,7 @@
       sha256: f56a483e10fd00957460adfc16ee462cecac892a4fb44dc59e466e68a360fd42
       uri: huggingface://QuantFactory/Darkens-8B-GGUF/Darkens-8B.Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "starcannon-unleashed-12b-v1.0"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6720ed503a24966ac66495e8/HXc0AxPLkoIC1fy0Pb3Pb.png
   urls:
@@ -10485,7 +10485,7 @@
       uri: huggingface://QuantFactory/Starcannon-Unleashed-12B-v1.0-GGUF/Starcannon-Unleashed-12B-v1.0.Q4_K_M.gguf
 - !!merge <<: *mistral03
   icon: https://cdn-uploads.huggingface.co/production/uploads/645cfe4603fc86c46b3e46d1/CATNxzDDJL6xHR4tc4IMf.jpeg
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "valor-7b-v0.1"
   urls:
     - https://huggingface.co/NeuralNovel/Valor-7B-v0.1
@@ -10502,7 +10502,7 @@
       sha256: 2b695fe53d64b36c3eea68f1fa0809f30560aa97ce8b71c16f371c2dc262d9b8
       uri: huggingface://mradermacher/Valor-7B-v0.1-GGUF/Valor-7B-v0.1.Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mn-tiramisu-12b"
   icon: https://huggingface.co/matchaaaaa/MN-Tiramisu-12B/resolve/main/tiramisu-cute.png
   urls:
@@ -10518,7 +10518,7 @@
       sha256: 100c78b08a0f4fc5a5a65797e1498ff5fd6fc9daf96b0898d2de731c35fa4e3e
       uri: huggingface://MaziyarPanahi/MN-Tiramisu-12B-GGUF/MN-Tiramisu-12B.Q5_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mistral-nemo-prism-12b"
   icon: https://huggingface.co/nbeerbower/Mistral-Nemo-Prism-12B/resolve/main/prism-cover.png
   urls:
@@ -10535,7 +10535,7 @@
       sha256: 96b922c6d55d94ffb91e869b8cccaf2b6dc449d75b1456f4d4578c92c8184c25
       uri: huggingface://bartowski/Mistral-Nemo-Prism-12B-GGUF/Mistral-Nemo-Prism-12B-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "magnum-12b-v2.5-kto-i1"
   icon: https://cdn-uploads.huggingface.co/production/uploads/658a46cbfb9c2bdfae75b3a6/sWYs3iHkn36lw6FT_Y7nn.png
   urls:
@@ -10550,7 +10550,7 @@
       sha256: 07e91d2c6d4e42312e65a69c54f16be467575f7a596fe052993b388e38b90d76
       uri: huggingface://mradermacher/magnum-12b-v2.5-kto-i1-GGUF/magnum-12b-v2.5-kto.i1-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "chatty-harry_v3.0"
   icon: https://cdn-uploads.huggingface.co/production/uploads/66c1cc08453a7ef6c5fe657a/0KzNTEtn2kJJQsw4lQeY0.png
   urls:
@@ -10567,7 +10567,7 @@
       sha256: 54b63bb74498576ca77b801ed096657a93cc2f6b71d707c3605fdb394bd3e622
       uri: huggingface://QuantFactory/Chatty-Harry_V3.0-GGUF/Chatty-Harry_V3.0.Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "mn-chunky-lotus-12b"
   icon: https://huggingface.co/FallenMerick/MN-Chunky-Lotus-12B/resolve/main/chunky-lotus.jpg
   urls:
@@ -10591,7 +10591,7 @@
       sha256: 363defe0a769fdb715dab75517966a0a80bcdd981a610d4c759099b6c8ff143a
       uri: huggingface://QuantFactory/MN-Chunky-Lotus-12B-GGUF/MN-Chunky-Lotus-12B.Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "chronos-gold-12b-1.0"
   icon: https://cdn-uploads.huggingface.co/production/uploads/630417380907b9a115c6aa9f/3hc8zt8fzKdO3qHK1p1mW.webp
   urls:
@@ -10618,7 +10618,7 @@
       uri: huggingface://mradermacher/Chronos-Gold-12B-1.0-GGUF/Chronos-Gold-12B-1.0.Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "naturallm-7b-instruct"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/qingy2024/NaturalLM-7B-Instruct
     - https://huggingface.co/bartowski/NaturalLM-7B-Instruct-GGUF
@@ -10634,7 +10634,7 @@
       uri: huggingface://bartowski/NaturalLM-7B-Instruct-GGUF/NaturalLM-7B-Instruct-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "dans-personalityengine-v1.1.0-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.1.0-12b
     - https://huggingface.co/bartowski/Dans-PersonalityEngine-V1.1.0-12b-GGUF
@@ -10649,7 +10649,7 @@
       uri: huggingface://bartowski/Dans-PersonalityEngine-V1.1.0-12b-GGUF/Dans-PersonalityEngine-V1.1.0-12b-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "mn-12b-mag-mell-r1-iq-arm-imatrix"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1
     - https://huggingface.co/Lewdiculous/MN-12B-Mag-Mell-R1-GGUF-IQ-ARM-Imatrix
@@ -10679,7 +10679,7 @@
       sha256: ba0c9e64222b35f8c3828b7295e173ee54d83fd2e457ba67f6561a4a6d98481e
       uri: huggingface://Lewdiculous/MN-12B-Mag-Mell-R1-GGUF-IQ-ARM-Imatrix/MN-12B-Mag-Mell-R1-Q4_K_M-imat.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "captain-eris-diogenes_twilight-v0.420-12b-arm-imatrix"
   icon: https://cdn-uploads.huggingface.co/production/uploads/642265bc01c62c1e4102dc36/n0HUz-yRPkwQzt3dFrjW9.png
   urls:
@@ -10698,7 +10698,7 @@
       uri: huggingface://Lewdiculous/Captain-Eris-Diogenes_Twilight-V0.420-12B-GGUF-ARM-Imatrix/Captain-Eris-Diogenes_Twighlight-V0.420-12B-Q4_K_M-imat.gguf
 - !!merge <<: *mistral03
   name: "violet_twilight-v0.2"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/64adfd277b5ff762771e4571/P962FQhRG4I8nbU_DJolY.png
   urls:
     - https://huggingface.co/Epiculous/Violet_Twilight-v0.2
@@ -10732,7 +10732,7 @@
       uri: huggingface://QuantFactory/SAINEMO-reMIX-GGUF/SAINEMO-reMIX.Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "nera_noctis-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/642265bc01c62c1e4102dc36/89XJnlNNSsEfBjI1oHCVt.jpeg
   urls:
     - https://huggingface.co/Nitral-AI/Nera_Noctis-12B
@@ -10748,7 +10748,7 @@
       uri: huggingface://bartowski/Nera_Noctis-12B-GGUF/Nera_Noctis-12B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "wayfarer-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/LatitudeGames/Wayfarer-12B/resolve/main/wayfarer.jpg
   urls:
     - https://huggingface.co/LatitudeGames/Wayfarer-12B
@@ -10808,7 +10808,7 @@
       uri: huggingface://bartowski/krutrim-ai-labs_Krutrim-2-instruct-GGUF/krutrim-ai-labs_Krutrim-2-instruct-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "cognitivecomputations_dolphin3.0-r1-mistral-24b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hdAvdwZiJaLbGmvSZ3wTT.png
   urls:
     - https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B
@@ -10824,7 +10824,7 @@
       uri: huggingface://bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "cognitivecomputations_dolphin3.0-mistral-24b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/cNCs1TBD3FelWCJGkZ3cd.png
   urls:
     - https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B
@@ -10840,7 +10840,7 @@
       uri: huggingface://bartowski/cognitivecomputations_Dolphin3.0-Mistral-24B-GGUF/cognitivecomputations_Dolphin3.0-Mistral-24B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "sicariussicariistuff_redemption_wind_24b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/SicariusSicariiStuff/Redemption_Wind_24B/resolve/main/Images/Redemption_Wind_24B.png
   urls:
     - https://huggingface.co/SicariusSicariiStuff/Redemption_Wind_24B
@@ -10862,7 +10862,7 @@
       uri: huggingface://bartowski/SicariusSicariiStuff_Redemption_Wind_24B-GGUF/SicariusSicariiStuff_Redemption_Wind_24B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "pygmalionai_eleusis-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/PygmalionAI/Eleusis-12B
     - https://huggingface.co/bartowski/PygmalionAI_Eleusis-12B-GGUF
@@ -10879,7 +10879,7 @@
       uri: huggingface://bartowski/PygmalionAI_Eleusis-12B-GGUF/PygmalionAI_Eleusis-12B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "pygmalionai_pygmalion-3-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/PygmalionAI/Pygmalion-3-12B
     - https://huggingface.co/bartowski/PygmalionAI_Pygmalion-3-12B-GGUF
@@ -10896,7 +10896,7 @@
       uri: huggingface://bartowski/PygmalionAI_Pygmalion-3-12B-GGUF/PygmalionAI_Pygmalion-3-12B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "pocketdoc_dans-personalityengine-v1.2.0-24b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
     - https://huggingface.co/bartowski/PocketDoc_Dans-PersonalityEngine-V1.2.0-24b-GGUF
@@ -10913,7 +10913,7 @@
       uri: huggingface://bartowski/PocketDoc_Dans-PersonalityEngine-V1.2.0-24b-GGUF/PocketDoc_Dans-PersonalityEngine-V1.2.0-24b-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "nousresearch_deephermes-3-mistral-24b-preview"
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/nZFJYtN7DvuyP7JQdfAMO.jpeg
   urls:
     - https://huggingface.co/NousResearch/DeepHermes-3-Mistral-24B-Preview
@@ -10937,7 +10937,7 @@
       uri: huggingface://bartowski/NousResearch_DeepHermes-3-Mistral-24B-Preview-GGUF/NousResearch_DeepHermes-3-Mistral-24B-Preview-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "pocketdoc_dans-sakurakaze-v1.0.0-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/PocketDoc/Dans-SakuraKaze-V1.0.0-12b
     - https://huggingface.co/bartowski/PocketDoc_Dans-SakuraKaze-V1.0.0-12b-GGUF
@@ -10951,7 +10951,7 @@
       sha256: 9dde1b749af27cddc68de07875a067050e9f77199466c89eecc93842adf69ed9
       uri: huggingface://bartowski/PocketDoc_Dans-SakuraKaze-V1.0.0-12b-GGUF/PocketDoc_Dans-SakuraKaze-V1.0.0-12b-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "beaverai_mn-2407-dsk-qwqify-v0.1-12b"
   urls:
     - https://huggingface.co/BeaverAI/MN-2407-DSK-QwQify-v0.1-12B
@@ -10987,7 +10987,7 @@
       sha256: c5743c1bf39db0ae8a5ade5df0374b8e9e492754a199cfdad7ef393c1590f7c0
       uri: huggingface://bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF/mistralai_Mistral-Small-3.1-24B-Instruct-2503-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "gryphe_pantheon-rp-1.8-24b-small-3.1"
   icon: https://huggingface.co/Gryphe/Pantheon-RP-1.8-24b-Small-3.1/resolve/main/Pantheon.png
   urls:
@@ -11041,7 +11041,7 @@
       uri: huggingface://bartowski/alamios_Mistral-Small-3.1-DRAFT-0.5B-GGUF/alamios_Mistral-Small-3.1-DRAFT-0.5B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "blacksheep-24b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/TroyDoesAI/BlackSheep-24B/resolve/main/BlackSheep.png
   urls:
     - https://huggingface.co/TroyDoesAI/BlackSheep-24B
@@ -11072,7 +11072,7 @@
       uri: huggingface://mradermacher/Eurydice-24b-v2-i1-GGUF/Eurydice-24b-v2.i1-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "trappu_magnum-picaro-0.7-v2-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Trappu/Magnum-Picaro-0.7-v2-12b
     - https://huggingface.co/bartowski/Trappu_Magnum-Picaro-0.7-v2-12b-GGUF
@@ -11104,7 +11104,7 @@
       sha256: 49a5341ea90e7bd03e797162ab23bf0b975dce9faf5d957f7d24bf1d5134c937
       uri: huggingface://bartowski/TheDrummer_Rivermind-12B-v1-GGUF/TheDrummer_Rivermind-12B-v1-Q4_K_M.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master"
   name: "dreamgen_lucid-v1-nemo"
   icon: https://huggingface.co/dreamgen/lucid-v1-nemo/resolve/main/images/banner.webp
   urls:
@@ -11135,7 +11135,7 @@
       uri: huggingface://bartowski/dreamgen_lucid-v1-nemo-GGUF/dreamgen_lucid-v1-nemo-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "starrysky-12b-i1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/yamatazen/StarrySky-12B/resolve/main/StarrySky-12B.png?download=true
   urls:
     - https://huggingface.co/yamatazen/StarrySky-12B
@@ -11155,7 +11155,7 @@
       uri: huggingface://mradermacher/StarrySky-12B-i1-GGUF/StarrySky-12B.i1-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "rei-v3-kto-12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/66c26b6fb01b19d8c3c2467b/nqMkoIsmScaTFHCFirGsc.png
   urls:
     - https://huggingface.co/Delta-Vector/Rei-V3-KTO-12B
@@ -11172,7 +11172,7 @@
       uri: huggingface://mradermacher/Rei-V3-KTO-12B-GGUF/Rei-V3-KTO-12B.Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "thedrummer_snowpiercer-15b-v1"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://cdn-uploads.huggingface.co/production/uploads/65f2fd1c25b848bd061b5c2e/XtzACixKJgJlPSMiCIvCC.png
   urls:
     - https://huggingface.co/TheDrummer/Snowpiercer-15B-v1
@@ -11228,7 +11228,7 @@
 - !!merge <<: *mistral03
   name: "delta-vector_archaeo-12b-v2"
   icon: https://cdn-avatars.huggingface.co/v1/production/uploads/66c26b6fb01b19d8c3c2467b/mBgg5DKlQFcwz0fXXljTF.jpeg
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Delta-Vector/Archaeo-12B-V2
     - https://huggingface.co/bartowski/Delta-Vector_Archaeo-12B-V2-GGUF
@@ -11244,7 +11244,7 @@
 - !!merge <<: *mistral03
   icon: https://cdn-uploads.huggingface.co/production/uploads/6669a3a617b838fda45637b8/qQpy13yAYpZHupUcWIocZ.png
   name: "luckyrp-24b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Vortex5/LuckyRP-24B
     - https://huggingface.co/mradermacher/LuckyRP-24B-GGUF
@@ -11262,7 +11262,7 @@
       uri: huggingface://mradermacher/LuckyRP-24B-GGUF/LuckyRP-24B.Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "llama3-24b-mullein-v1"
-  url: "github:mudler/LocalAI/gallery/llama3.1-instruct.yaml@master" ## LLama3.1
+  url: "github:BlackRoad-OS/LocalAI/gallery/llama3.1-instruct.yaml@master" ## LLama3.1
   icon: https://cdn-uploads.huggingface.co/production/uploads/675a77cf99ca23af9daacccc/aApksUdvpFFkveNbegjlS.webp
   urls:
     - https://huggingface.co/trashpanda-org/Llama3-24B-Mullein-v1
@@ -11342,7 +11342,7 @@
 - !!merge <<: *mistral03
   icon: https://cdn-uploads.huggingface.co/production/uploads/66c26b6fb01b19d8c3c2467b/jxUvuFK1bdOdAPiYIcBW5.jpeg
   name: "delta-vector_austral-24b-winton"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/Delta-Vector/Austral-24B-Winton
     - https://huggingface.co/bartowski/Delta-Vector_Austral-24B-Winton-GGUF
@@ -11359,7 +11359,7 @@
       uri: huggingface://bartowski/Delta-Vector_Austral-24B-Winton-GGUF/Delta-Vector_Austral-24B-Winton-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "mistral-small-3.2-46b-the-brilliant-raconteur-ii-instruct-2506"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/DavidAU/Mistral-Small-3.2-46B-The-Brilliant-Raconteur-II-Instruct-2506/resolve/main/mistral-2506.jpg
   urls:
     - https://huggingface.co/DavidAU/Mistral-Small-3.2-46B-The-Brilliant-Raconteur-II-Instruct-2506
@@ -11474,7 +11474,7 @@
 - !!merge <<: *mistral03
   name: "lyranovaheart_starfallen-snow-fantasy-24b-ms3.2-v0.0"
   icon: https://huggingface.co/LyraNovaHeart/Starfallen-Snow-Fantasy-24B-MS3.2-v0.0/resolve/main/Snow_Fantasy.png
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/LyraNovaHeart/Starfallen-Snow-Fantasy-24B-MS3.2-v0.0
     - https://huggingface.co/bartowski/LyraNovaHeart_Starfallen-Snow-Fantasy-24B-MS3.2-v0.0-GGUF
@@ -11561,7 +11561,7 @@
       uri: huggingface://bartowski/entfane_math-genius-7B-GGUF/entfane_math-genius-7B-Q4_K_M.gguf
 - !!merge <<: *mistral03
   name: "impish_nemo_12b"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   icon: https://huggingface.co/SicariusSicariiStuff/Impish_Nemo_12B/resolve/main/Images/Impish_Nemo_12B.png
   urls:
     - https://huggingface.co/SicariusSicariiStuff/Impish_Nemo_12B
@@ -11575,7 +11575,7 @@
       sha256: e0ce3adbed2718e144f477721c2ad68b6e3cccd95fc27dbe8f0135be76c99c72
       uri: huggingface://SicariusSicariiStuff/Impish_Nemo_12B_GGUF/Impish_Nemo_12B-Q6_K.gguf
 - !!merge <<: *mistral03
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "impish_longtail_12b"
   icon: https://huggingface.co/SicariusSicariiStuff/Impish_Longtail_12B/resolve/main/Images/Impish_Longtail_12B.png
   urls:
@@ -11614,7 +11614,7 @@
       sha256: 1d638bc931de30d29fc73ad439206ff185f76666a096e7ad723866a20f78728d
       uri: huggingface://bartowski/mistralai_Magistral-Small-2509-GGUF/mistralai_Magistral-Small-2509-Q4_K_M.gguf
 - &mudler
-  url: "github:mudler/LocalAI/gallery/mudler.yaml@master" ### START mudler's LocalAI specific-models
+  url: "github:BlackRoad-OS/LocalAI/gallery/mudler.yaml@master" ### START mudler's LocalAI specific-models
   name: "LocalAI-llama3-8b-function-call-v0.2"
   icon: "https://cdn-uploads.huggingface.co/production/uploads/647374aa7ff32a81ac6d35d4/us5JKi9z046p8K-cn_M0w.webp"
   license: llama3
@@ -11623,8 +11623,8 @@
 
     Specifically, the model once enters in tools mode will always reply with JSON.
   urls:
-    - https://huggingface.co/mudler/LocalAI-Llama3-8b-Function-Call-v0.2-GGUF
-    - https://huggingface.co/mudler/LocalAI-Llama3-8b-Function-Call-v0.2
+    - https://huggingface.co/BlackRoad-OS/LocalAI-Llama3-8b-Function-Call-v0.2-GGUF
+    - https://huggingface.co/BlackRoad-OS/LocalAI-Llama3-8b-Function-Call-v0.2
   tags:
     - llm
     - gguf
@@ -11638,7 +11638,7 @@
   files:
     - filename: LocalAI-Llama3-8b-Function-Call-v0.2-q4_k_m.bin
       sha256: 7e46405ce043cbc8d30f83f26a5655dc8edf5e947b748d7ba2745bd0af057a41
-      uri: huggingface://mudler/LocalAI-Llama3-8b-Function-Call-v0.2-GGUF/LocalAI-Llama3-8b-Function-Call-v0.2-q4_k_m.bin
+      uri: huggingface://BlackRoad-OS/LocalAI-Llama3-8b-Function-Call-v0.2-GGUF/LocalAI-Llama3-8b-Function-Call-v0.2-q4_k_m.bin
 - !!merge <<: *mudler
   icon: "https://cdn-uploads.huggingface.co/production/uploads/647374aa7ff32a81ac6d35d4/SKuXcvmZ_6oD4NCMkvyGo.png"
   name: "mirai-nova-llama3-LocalAI-8b-v0.1"
@@ -11659,7 +11659,7 @@
       sha256: 579cbb229f9c11d0330759ff4733102d2491615a4c61289e26c09d1b3a583fec
       uri: huggingface://mudler/Mirai-Nova-Llama3-LocalAI-8B-v0.1-GGUF/Mirai-Nova-Llama3-LocalAI-8B-v0.1-q4_k_m.bin
 - &parler-tts
-  url: "github:mudler/LocalAI/gallery/parler-tts.yaml@master" ### START parler-tts
+  url: "github:BlackRoad-OS/LocalAI/gallery/parler-tts.yaml@master" ### START parler-tts
   name: parler-tts-mini-v0.1
   overrides:
     parameters:
@@ -11676,7 +11676,7 @@
     - text-to-speech
     - python
 - &rerankers
-  url: "github:mudler/LocalAI/gallery/rerankers.yaml@master" ### START rerankers
+  url: "github:BlackRoad-OS/LocalAI/gallery/rerankers.yaml@master" ### START rerankers
   name: cross-encoder
   parameters:
     model: cross-encoder
@@ -11689,7 +11689,7 @@
     - python
 - &dolphin
   name: "dolphin-2.9-llama3-8b"
-  url: "github:mudler/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/hermes-2-pro-mistral.yaml@master"
   urls:
     - https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b-gguf
   tags:
@@ -11721,7 +11721,7 @@
       sha256: 8aac72a0bd72c075ba7be1aa29945e47b07d39cd16be9a80933935f51b57fb32
       uri: huggingface://cognitivecomputations/dolphin-2.9-llama3-8b-gguf/dolphin-2.9-llama3-8b-q6_K.gguf
 - !!merge <<: *dolphin
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "dolphin-2.9.2-phi-3-medium"
   urls:
     - https://huggingface.co/cognitivecomputations/dolphin-2.9.2-Phi-3-Medium
@@ -11734,7 +11734,7 @@
       sha256: e817eae484a59780358cf91527b12585804d4914755d8a86d8d666b10bac57e5
       uri: huggingface://bartowski/dolphin-2.9.2-Phi-3-Medium-GGUF/dolphin-2.9.2-Phi-3-Medium-Q4_K_M.gguf
 - !!merge <<: *dolphin
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "dolphin-2.9.2-phi-3-Medium-abliterated"
   urls:
     - https://huggingface.co/cognitivecomputations/dolphin-2.9.2-Phi-3-Medium-abliterated
@@ -11747,7 +11747,7 @@
       sha256: 566331c2efe87725310aacb709ca15088a0063fa0ddc14a345bf20d69982156b
       uri: huggingface://bartowski/dolphin-2.9.2-Phi-3-Medium-abliterated-GGUF/dolphin-2.9.2-Phi-3-Medium-abliterated-Q4_K_M.gguf
 - &yi-chat
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master" ### Start Yi
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master" ### Start Yi
   icon: "https://github.com/01-ai/Yi/raw/main/assets/img/Yi_logo_icon_light.svg"
   name: "yi-1.5-9b-chat"
   license: apache-2.0
@@ -11862,7 +11862,7 @@
       sha256: e2e8fa659cd75c828d7783b5c2fb60d220e08836065901fad8edb48e537c1cec
       uri: huggingface://MaziyarPanahi/Yi-Coder-1.5B-Chat-GGUF/Yi-Coder-1.5B-Chat.Q4_K_M.gguf
 - !!merge <<: *yi-chat
-  url: "github:mudler/LocalAI/gallery/codellama.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/codellama.yaml@master"
   name: "yi-coder-1.5b"
   urls:
     - https://huggingface.co/01-ai/Yi-Coder-1.5B
@@ -11887,7 +11887,7 @@
       sha256: 86a280dd36c9b2342b7023532f9c2c287e251f5cd10bc81ca262db8c1668f272
       uri: huggingface://QuantFactory/Yi-Coder-1.5B-GGUF/Yi-Coder-1.5B.Q4_K_M.gguf
 - !!merge <<: *yi-chat
-  url: "github:mudler/LocalAI/gallery/codellama.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/codellama.yaml@master"
   name: "yi-coder-9b"
   urls:
     - https://huggingface.co/01-ai/Yi-Coder-9B
@@ -11925,7 +11925,7 @@
       sha256: 943bf59b34bee34afae8390c1791ccbc7c742e11a4d04d538a699754eb92215e
       uri: huggingface://mradermacher/CursorCore-Yi-9B-GGUF/CursorCore-Yi-9B.Q4_K_M.gguf
 - &noromaid
-  url: "github:mudler/LocalAI/gallery/noromaid.yaml@master" ### Start noromaid
+  url: "github:BlackRoad-OS/LocalAI/gallery/noromaid.yaml@master" ### Start noromaid
   name: "noromaid-13b-0.4-DPO"
   icon: https://cdn-uploads.huggingface.co/production/uploads/630dfb008df86f1e5becadc3/VKX2Z2yjZX5J8kXzgeCYO.png
   license: cc-by-nc-4.0
@@ -11945,11 +11945,11 @@
       sha256: cb28e878d034fae3d0b43326c5fc1cfb4ab583b17c56e41d6ce023caec03c1c1
       uri: huggingface://NeverSleep/Noromaid-13B-0.4-DPO-GGUF/Noromaid-13B-0.4-DPO.q4_k_m.gguf
 ### moondream2
-- url: "github:mudler/LocalAI/gallery/moondream.yaml@master"
+- url: "github:BlackRoad-OS/LocalAI/gallery/moondream.yaml@master"
   license: apache-2.0
   description: |
     a tiny vision language model that kicks ass and runs anywhere
-  icon: https://github.com/mudler/LocalAI/assets/2420543/05f7d1f8-0366-4981-8326-f8ed47ebb54d
+  icon: https://github.com/BlackRoad-OS/LocalAI/assets/2420543/05f7d1f8-0366-4981-8326-f8ed47ebb54d
   urls:
     - https://huggingface.co/vikhyatk/moondream2
     - https://huggingface.co/moondream/moondream2-gguf
@@ -11974,7 +11974,7 @@
       sha256: 4cc1cb3660d87ff56432ebeb7884ad35d67c48c7b9f6b2856f305e39c38eed8f
       uri: huggingface://moondream/moondream2-gguf/moondream2-mmproj-f16.gguf
 - &chatml
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master" ### ChatML
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master" ### ChatML
   name: "una-thepitbull-21.4b-v2"
   license: afl-3.0
   icon: https://huggingface.co/fblgit/UNA-ThePitbull-21.4B-v2/resolve/main/DE-UNA-ThePitbull-21.4B-v2.png
@@ -11998,7 +11998,7 @@
       sha256: f08780986748a04e707a63dcac616330c2afc7f9fb2cc6b1d9784672071f3c85
       uri: huggingface://bartowski/UNA-ThePitbull-21.4B-v2-GGUF/UNA-ThePitbull-21.4B-v2-Q4_K_M.gguf
 - &command-R
-  url: "github:mudler/LocalAI/gallery/command-r.yaml@master" ### START Command-r
+  url: "github:BlackRoad-OS/LocalAI/gallery/command-r.yaml@master" ### START Command-r
   name: "command-r-v01:q1_s"
   license: "cc-by-nc-4.0"
   icon: https://cdn.sanity.io/images/rjtqmwfu/production/ae020d94b599cc453cc09ebc80be06d35d953c23-102x18.svg
@@ -12053,7 +12053,7 @@
       sha256: "57824768c1a945e21e028c8e9a29b39adb4838d489f5865c82601ab9ad98065d"
       uri: "huggingface://bartowski/aya-23-35B-GGUF/aya-23-35B-Q4_K_M.gguf"
 - &phi-2-chat
-  url: "github:mudler/LocalAI/gallery/phi-2-chat.yaml@master" ### START Phi-2
+  url: "github:BlackRoad-OS/LocalAI/gallery/phi-2-chat.yaml@master" ### START Phi-2
   license: mit
   description: |
     Phi-2 fine-tuned by the OpenHermes 2.5 dataset optimised for multi-turn conversation and character impersonation.
@@ -12124,7 +12124,7 @@
       uri: "huggingface://TheBloke/phi-2-orange-GGUF/phi-2-orange.Q4_0.gguf"
 ### Internlm2
 - name: "internlm2_5-7b-chat-1m"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/internlm/internlm2_5-7b-chat-1m
     - https://huggingface.co/bartowski/internlm2_5-7b-chat-1m-GGUF
@@ -12151,7 +12151,7 @@
       sha256: 10d5e18a4125f9d4d74a9284a21e0c820b150af06dee48665e54ff6e1be3a564
 ### Internlm3
 - name: "internlm3-8b-instruct"
-  url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   urls:
     - https://huggingface.co/internlm/internlm3-8b-instruct
     - https://huggingface.co/bartowski/internlm3-8b-instruct-GGUF
@@ -12175,7 +12175,7 @@
       uri: huggingface://bartowski/internlm3-8b-instruct-GGUF/internlm3-8b-instruct-Q4_K_M.gguf
       sha256: 2a9644687318e8659c9cf9b40730d5cc2f5af06f786a50439c7c51359b23896e
 - &hermes-vllm
-  url: "github:mudler/LocalAI/gallery/hermes-vllm.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/hermes-vllm.yaml@master"
   name: "hermes-3-llama-3.1-8b:vllm"
   icon: https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/vG6j5WxHX09yj32vgjJlI.jpeg
   tags:
@@ -12206,7 +12206,7 @@
   overrides:
     parameters:
       model: NousResearch/Hermes-3-Llama-3.1-405B
-- url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
+- url: "github:BlackRoad-OS/LocalAI/gallery/chatml.yaml@master"
   name: "guillaumetell-7b"
   license: apache-2
   description: |
@@ -12230,7 +12230,7 @@
       sha256: bf08db5281619335f3ee87e229c8533b04262790063b061bb8f275c3e4de7061
       uri: huggingface://MaziyarPanahi/guillaumetell-7b-GGUF/guillaumetell-7b.Q4_K_M.gguf
 ### START Cerbero
-- url: "github:mudler/LocalAI/gallery/cerbero.yaml@master"
+- url: "github:BlackRoad-OS/LocalAI/gallery/cerbero.yaml@master"
   icon: https://huggingface.co/galatolo/cerbero-7b/resolve/main/README.md.d/cerbero.png
   description: |
     cerbero-7b is specifically crafted to fill the void in Italy's AI landscape.
@@ -12251,7 +12251,7 @@
       sha256: "ca0cfd5a9ad40dc16416aa3a277015d0299b62c0803b67f5709580042202c172"
       uri: "huggingface://galatolo/cerbero-7b-gguf/ggml-model-Q4_K.gguf"
 - &codellama
-  url: "github:mudler/LocalAI/gallery/codellama.yaml@master" ### START Codellama
+  url: "github:BlackRoad-OS/LocalAI/gallery/codellama.yaml@master" ### START Codellama
   name: "codellama-7b"
   license: llama2
   description: |
@@ -12297,7 +12297,7 @@
       uri: "huggingface://bartowski/Codestral-22B-v0.1-GGUF/Codestral-22B-v0.1-Q4_K_M.gguf"
       sha256: 003e48ed892850b80994fcddca2bd6b833b092a4ef2db2853c33a3144245e06c
 - !!merge <<: *codellama
-  url: "github:mudler/LocalAI/gallery/alpaca.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/alpaca.yaml@master"
   icon: https://huggingface.co/Nan-Do/LeetCodeWizard_7B_V1.1/resolve/main/LeetCodeWizardLogo.png
   name: "leetcodewizard_7b_v1.1-i1"
   urls:
@@ -12319,7 +12319,7 @@
       sha256: 19720d8e1ba89d32c6f88ed6518caf0251f9e3ec011297929c801efc5ea979f4
       uri: huggingface://mradermacher/LeetCodeWizard_7B_V1.1-i1-GGUF/LeetCodeWizard_7B_V1.1.i1-Q4_K_M.gguf
 - &llm-compiler
-  url: "github:mudler/LocalAI/gallery/codellama.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/codellama.yaml@master"
   name: "llm-compiler-13b-imat"
   license: other
   description: |
@@ -12382,7 +12382,7 @@
       uri: "huggingface://legraphista/llm-compiler-7b-ftd-IMat-GGUF/llm-compiler-7b-ftd.Q4_K.gguf"
       sha256: d862dd18ed335413787d0ad196522a9902a3c10a6456afdab8721822cb0ddde8
 - &openvino
-  url: "github:mudler/LocalAI/gallery/openvino.yaml@master" ### START OpenVINO
+  url: "github:BlackRoad-OS/LocalAI/gallery/openvino.yaml@master" ### START OpenVINO
   name: "openvino-llama-3-8b-instruct-ov-int8"
   license: llama3
   urls:
@@ -12506,7 +12506,7 @@
     - embeddings
     - python
   name: "all-MiniLM-L6-v2"
-  url: "github:mudler/LocalAI/gallery/sentencetransformers.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/sentencetransformers.yaml@master"
   overrides:
     parameters:
       model: all-MiniLM-L6-v2
@@ -12524,7 +12524,7 @@
     - python
     - sd-1.5
     - gpu
-  url: "github:mudler/LocalAI/gallery/dreamshaper.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/dreamshaper.yaml@master"
   overrides:
     parameters:
       model: DreamShaper_8_pruned.safetensors
@@ -12546,11 +12546,11 @@
     - python
     - sd-3
     - gpu
-  url: "github:mudler/LocalAI/gallery/stablediffusion3.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/stablediffusion3.yaml@master"
 - name: sd-1.5-ggml
   icon: https://avatars.githubusercontent.com/u/37351293
   license: creativeml-openrail-m
-  url: "github:mudler/LocalAI/gallery/sd-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/sd-ggml.yaml@master"
   description: |
     Stable Diffusion 1.5
   urls:
@@ -12571,7 +12571,7 @@
       uri: "huggingface://second-state/stable-diffusion-v1-5-GGUF/stable-diffusion-v1-5-pruned-emaonly-Q4_0.gguf"
 - name: sd-3.5-medium-ggml
   license: stabilityai-ai-community
-  url: "github:mudler/LocalAI/gallery/sd-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/sd-ggml.yaml@master"
   description: |
     Stable Diffusion 3.5 Medium is a Multimodal Diffusion Transformer (MMDiT) text-to-image model that features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.
   urls:
@@ -12606,7 +12606,7 @@
       uri: huggingface://second-state/stable-diffusion-3.5-medium-GGUF/t5xxl-Q4_0.gguf
 - name: sd-3.5-large-ggml
   license: stabilityai-ai-community
-  url: "github:mudler/LocalAI/gallery/sd-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/sd-ggml.yaml@master"
   description: |
     Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model that features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.
   urls:
@@ -12653,7 +12653,7 @@
     - flux
     - python
     - gpu
-  url: "github:mudler/LocalAI/gallery/flux.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux.yaml@master"
   overrides:
     parameters:
       model: ChuckMcSneed/FLUX.1-dev
@@ -12674,7 +12674,7 @@
       model: black-forest-labs/FLUX.1-schnell
 - name: flux.1-dev-ggml
   license: flux-1-dev-non-commercial-license
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   description: |
     FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. For more information, please read our blog post.
     Key Features
@@ -12725,7 +12725,7 @@
       model: SicariusSicariiStuff/flux.1dev-abliteratedv2
 - name: flux.1-kontext-dev
   license: flux-1-dev-non-commercial-license
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   icon: https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/media/main/teaser.png
   description: |
     FLUX.1 Kontext [dev] is a 12 billion parameter rectified flow transformer capable of editing images based on text instructions. For more information, please read our blog post and our technical report. You can find information about the [pro] version in here.
@@ -12763,7 +12763,7 @@
 - !!merge <<: *flux
   name: flux.1-dev-ggml-q8_0
   license: flux-1-dev-non-commercial-license
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   urls:
     - https://huggingface.co/black-forest-labs/FLUX.1-dev
     - https://huggingface.co/city96/FLUX.1-dev-gguf
@@ -12785,7 +12785,7 @@
       uri: https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors
 - !!merge <<: *flux
   name: flux.1-dev-ggml-abliterated-v2-q8_0
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   description: |
     FLUX.1 [dev] is an abliterated version of FLUX.1 [dev]
   urls:
@@ -12809,7 +12809,7 @@
       uri: https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors
 - !!merge <<: *flux
   name: flux.1-krea-dev-ggml
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   description: |
     FLUX.1 Krea [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. For more information, please read our blog post and Krea's blog post.
     Cutting-edge output quality, with a focus on aesthetic photography.
@@ -12838,7 +12838,7 @@
       uri: https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors
 - !!merge <<: *flux
   name: flux.1-krea-dev-ggml-q8_0
-  url: "github:mudler/LocalAI/gallery/flux-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/flux-ggml.yaml@master"
   description: |
     FLUX.1 Krea [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. For more information, please read our blog post and Krea's blog post.
     Cutting-edge output quality, with a focus on aesthetic photography.
@@ -12876,7 +12876,7 @@
     - text-to-image
     - z-image
     - gpu
-  url: "github:mudler/LocalAI/gallery/z-image-ggml.yaml@master"
+  url: "github:BlackRoad-OS/LocalAI/gallery/z-image-ggml.yaml@master"
   files:
     - filename: Qwen3-4B.Q4_K_M.gguf
       sha256: a37931937683a723ae737a0c6fc67dab7782fd8a1b9dea2ca445b7a1dbd5ca3a
@@ -12888,7 +12888,7 @@
       sha256: afc8e28272cd15db3919bacdb6918ce9c1ed22e96cb12c4d5ed0fba823529e38
       uri: https://huggingface.co/ChuckMcSneed/FLUX.1-dev/resolve/main/ae.safetensors
 - &whisper
-  url: "github:mudler/LocalAI/gallery/whisper-base.yaml@master" ## Whisper
+  url: "github:BlackRoad-OS/LocalAI/gallery/whisper-base.yaml@master" ## Whisper
   name: "whisper-1"
   icon: https://avatars.githubusercontent.com/u/14957082
   license: "MIT"
@@ -13114,7 +13114,7 @@
     parameters:
       model: llama-3.2-1b-instruct-q4_k_m.gguf
 - &piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master ## Piper TTS
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master ## Piper TTS
   name: voice-en-us-kathleen-low
   icon: https://github.com/rhasspy/piper/raw/master/etc/logo.png
   license: mit
@@ -13143,7 +13143,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ca-upc_ona-x-low.tar.gz
       sha256: c750d3f6ad35c8d95d5b0d1ad30ede2525524e48390f70a0871bdb7980cc271e
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-ca-upc_pau-x-low
   overrides:
     parameters:
@@ -13153,7 +13153,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ca-upc_pau-x-low.tar.gz
       sha256: 13c658ecd46a2dbd9dadadf7100623e53106239afcc359f9e27511b91e642f1f
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-da-nst_talesyntese-medium
   overrides:
     parameters:
@@ -13163,7 +13163,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-da-nst_talesyntese-medium.tar.gz
       sha256: 1bdf673b946a2ba69fab24ae3fc0e7d23e042c2533cbbef008f64f633500eb7e
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-eva_k-x-low
   overrides:
     parameters:
@@ -13173,7 +13173,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-eva_k-x-low.tar.gz
       sha256: 81b305abc58a0a02629aea01904a86ec97b823714dd66b1ee22f38fe529e6371
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-karlsson-low
   overrides:
     parameters:
@@ -13183,7 +13183,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-karlsson-low.tar.gz
       sha256: cc7615cfef3ee6beaa1db6059e0271e4d2e1d6d310c0e17b3d36c494628f4b82
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-kerstin-low
   overrides:
     parameters:
@@ -13193,7 +13193,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-kerstin-low.tar.gz
       sha256: d8ea72fbc0c21db828e901777ba7bb5dff7c843bb943ad19f34c9700b96a8182
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-pavoque-low
   overrides:
     parameters:
@@ -13203,7 +13203,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-pavoque-low.tar.gz
       sha256: 1f5ebc6398e8829f19c7c2b14f46307703bca0f0d8c74b4bb173037b1f161d4d
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-ramona-low
   overrides:
     parameters:
@@ -13213,7 +13213,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-ramona-low.tar.gz
       sha256: 66d9fc08d1a1c537a1cefe99a284f687e5ad7e43d5935a75390678331cce7b47
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-de-thorsten-low
   overrides:
     parameters:
@@ -13223,7 +13223,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-de-thorsten-low.tar.gz
       sha256: 4d052a7726b77719d0dbc66c845f1d0fe4432bfbd26f878f6dd0883d49e9e43d
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-el-gr-rapunzelina-low
   overrides:
     parameters:
@@ -13233,7 +13233,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-el-gr-rapunzelina-low.tar.gz
       sha256: c5613688c12eabc5294465494ed56af1e0fe4d7896d216bfa470eb225d9ff0d0
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-gb-alan-low
   overrides:
     parameters:
@@ -13243,7 +13243,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-gb-alan-low.tar.gz
       sha256: 526eeeeccb26206dc92de5965615803b5bf88df059f46372caa4a9fa12d76a32
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-gb-southern_english_female-low
   overrides:
     parameters:
@@ -13253,7 +13253,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-gb-southern_english_female-low.tar.gz
       sha256: 7c1bbe23e61a57bdb450b137f69a83ff5358159262e1ed7d2308fa14f4924da9
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-amy-low
   overrides:
     parameters:
@@ -13263,7 +13263,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-amy-low.tar.gz
       sha256: 5c3e3480e7d71ce219943c8a711bb9c21fd48b8f8e87ed7fb5c6649135ab7608
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-danny-low
   overrides:
     parameters:
@@ -13273,7 +13273,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-danny-low.tar.gz
       sha256: 0c8fbb42526d5fbd3a0bded5f18041c0a893a70a7fb8756f97866624b932264b
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-kathleen-low
   overrides:
     parameters:
@@ -13283,7 +13283,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-kathleen-low.tar.gz
       sha256: 18e32f009f864d8061af8a4be4ae9018b5aa8b49c37f9e108bbfd782c6a38fbf
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-lessac-low
   overrides:
     parameters:
@@ -13293,7 +13293,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-lessac-low.tar.gz
       sha256: 003fe040985d00b917ace21b2ccca344c282c53fe9b946991b7b0da52516e1fc
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-lessac-medium
   overrides:
     parameters:
@@ -13303,7 +13303,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-lessac-medium.tar.gz
       sha256: d45ca50084c0558eb9581cd7d26938043bc8853513da47c63b94d95a2367a5c9
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-libritts-high
   overrides:
     parameters:
@@ -13313,7 +13313,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-libritts-high.tar.gz
       sha256: 328e3e9cb573a43a6c5e1aeca386e971232bdb1418a74d4674cf726c973a0ea8
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-ryan-high
   overrides:
     parameters:
@@ -13323,7 +13323,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-high.tar.gz
       sha256: de346b054703a190782f49acb9b93c50678a884fede49cfd85429d204802d678
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-ryan-low
   overrides:
     parameters:
@@ -13333,7 +13333,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-low.tar.gz
       sha256: 049e6e5bad07870fb1d25ecde97bac00f9c95c90589b2fef4b0fbf23c88770ce
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us-ryan-medium
   overrides:
     parameters:
@@ -13343,7 +13343,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-ryan-medium.tar.gz
       sha256: 2e00d747eaed6ce9f63f4991921ef3bb2bbfbc7f28cde4f14eb7048960f928d8
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-en-us_lessac
   overrides:
     parameters:
@@ -13353,7 +13353,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us_lessac.tar.gz
       sha256: 0967af67fb0435aa509b0b794c0cb2cc57817ae8a5bff28cb8cd89ab6f5dcc3d
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-es-carlfm-x-low
   overrides:
     parameters:
@@ -13363,7 +13363,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-carlfm-x-low.tar.gz
       sha256: 0156a186de321639e6295521f667758ad086bc8433f0a6797a9f044ed5cf5bf3
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-es-mls_10246-low
   overrides:
     parameters:
@@ -13373,7 +13373,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_10246-low.tar.gz
       sha256: ff1fe3fc2ab91e32acd4fa8cb92048e3cff0e20079b9d81324f01cd2dea50598
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-es-mls_9972-low
   overrides:
     parameters:
@@ -13383,7 +13383,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_9972-low.tar.gz
       sha256: d95def9adea97a6a3fee7645d1167e00fb4fd60f8ce9bc3ebf1acaa9e3f455dc
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-fi-harri-low
   overrides:
     parameters:
@@ -13393,7 +13393,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fi-harri-low.tar.gz
       sha256: 4f1aaf00927d0eb25bf4fc5ef8be2f042e048593864ac263ee7b49c516832b22
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-fr-gilles-low
   overrides:
     parameters:
@@ -13403,7 +13403,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-gilles-low.tar.gz
       sha256: 77662c7332c2a6f522ab478287d9b0fe9afc11a2da71f310bf923124ee699aae
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-fr-mls_1840-low
   overrides:
     parameters:
@@ -13413,7 +13413,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-mls_1840-low.tar.gz
       sha256: 69169d1fac99a733112c08c7caabf457055990590a32ee83ebcada37f86132d3
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-fr-siwis-low
   overrides:
     parameters:
@@ -13423,7 +13423,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-siwis-low.tar.gz
       sha256: d3db8d47053e9b4108e1c1d29d5ea2b5b1a152183616c3134c222110ccde20f2
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-fr-siwis-medium
   overrides:
     parameters:
@@ -13433,7 +13433,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-siwis-medium.tar.gz
       sha256: 0c9ecdf9ecac6de4a46be85a162bffe0db7145bd3a4175831cea6cab4b41eefd
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-is-bui-medium
   overrides:
     parameters:
@@ -13443,7 +13443,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-bui-medium.tar.gz
       sha256: e89ef01051cb48ca2a32338ed8749a4c966b912bb572c61d6d21f2d3822e505f
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-is-salka-medium
   overrides:
     parameters:
@@ -13453,7 +13453,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-salka-medium.tar.gz
       sha256: 75923d7d6b4125166ca58ec82b5d23879012844483b428db9911e034e6626384
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-is-steinn-medium
   overrides:
     parameters:
@@ -13463,7 +13463,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-steinn-medium.tar.gz
       sha256: 5a01a8df796f86fdfe12cc32a3412ebd83670d47708d94d926ba5ed0776e6dc9
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-is-ugla-medium
   overrides:
     parameters:
@@ -13473,7 +13473,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-is-ugla-medium.tar.gz
       sha256: 501cd0376f7fd397f394856b7b3d899da4cc40a63e11912258b74da78af90547
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-it-riccardo_fasol-x-low
   overrides:
     parameters:
@@ -13483,7 +13483,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-it-riccardo_fasol-x-low.tar.gz
       sha256: 394b27b8780f5167e73a62ac103839cc438abc7edb544192f965e5b8f5f4acdb
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-it-paola-medium
   overrides:
     parameters:
@@ -13493,7 +13493,7 @@
       uri: https://github.com/fakezeta/piper-paola-voice/releases/download/v1.0.0/voice-it-paola-medium.tar.gz
       sha256: 61d3bac0ff6d347daea5464c4b3ae156a450b603a916cc9ed7deecdeba17153a
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-kk-iseke-x-low
   overrides:
     parameters:
@@ -13503,7 +13503,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-iseke-x-low.tar.gz
       sha256: f434fffbea3e6d8cf392e44438a1f32a5d005fc93b41be84a6d663882ce7c074
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-kk-issai-high
   overrides:
     parameters:
@@ -13513,7 +13513,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-issai-high.tar.gz
       sha256: 84bf79d330d6cd68103e82d95bbcaa2628a99a565126dea94cea2be944ed4f32
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-kk-raya-x-low
   overrides:
     parameters:
@@ -13523,7 +13523,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-kk-raya-x-low.tar.gz
       sha256: 4cab4ce00c6f10450b668072d7980a2bc3ade3a39adee82e3ec4f519d4c57bd1
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-ne-google-medium
   overrides:
     parameters:
@@ -13533,7 +13533,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ne-google-medium.tar.gz
       sha256: 0895b11a7a340baea37fb9c27fb50bc3fd0af9779085978277f962d236d3a7bd
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-ne-google-x-low
   overrides:
     parameters:
@@ -13543,7 +13543,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ne-google-x-low.tar.gz
       sha256: 870ba5718dfe3e478c6cce8a9a288b591b3575c750b57ffcd845e4ec64988f0b
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-nl-mls_5809-low
   overrides:
     parameters:
@@ -13553,7 +13553,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-mls_5809-low.tar.gz
       sha256: 398b9f0318dfe9d613cb066444efec0d8491905ae34cf502edb52030b75ef51c
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-nl-mls_7432-low
   overrides:
     parameters:
@@ -13563,7 +13563,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-mls_7432-low.tar.gz
       sha256: 0b3efc68ea7e735ba8f2e0a0f7e9b4b887b00f6530c02fca4aa69a6091adbe5e
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-nl-nathalie-x-low
   overrides:
     parameters:
@@ -13573,7 +13573,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-nathalie-x-low.tar.gz
       sha256: 2658d4fe2b791491780160216d187751f7c993aa261f3b8ec76dfcaf1ba74942
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-nl-rdh-medium
   overrides:
     parameters:
@@ -13583,7 +13583,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-rdh-medium.tar.gz
       sha256: 16f74a195ecf13df1303fd85327532196cc1ecef2e72505200578fd410d0affb
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-nl-rdh-x-low
   overrides:
     parameters:
@@ -13593,7 +13593,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-nl-rdh-x-low.tar.gz
       sha256: 496363e5d6e080fd16ac5a1f9457c564b52f0ee8be7f2e2ba1dbf41ef0b23a39
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-no-talesyntese-medium
   overrides:
     parameters:
@@ -13603,7 +13603,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-no-talesyntese-medium.tar.gz
       sha256: ed6b3593a0e70c90d52e225b85d7e0b805ad8e08482471bd2f73cf1404a6470d
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-pl-mls_6892-low
   overrides:
     parameters:
@@ -13613,7 +13613,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-pl-mls_6892-low.tar.gz
       sha256: 5361fcf586b1285025a2ccb8b7500e07c9d66fa8126ef518709c0055c4c0d6f4
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-pt-br-edresson-low
   overrides:
     parameters:
@@ -13623,7 +13623,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-pt-br-edresson-low.tar.gz
       sha256: c68be522a526e77f49e90eeb4c13c01b4acdfeb635759f0eeb0eea8f16fd1f33
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-ru-irinia-medium
   overrides:
     parameters:
@@ -13633,7 +13633,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-ru-irinia-medium.tar.gz
       sha256: 897b62f170faee38f21d0bc36411164166ae351977e898b6cf33f6206890b55f
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-sv-se-nst-medium
   overrides:
     parameters:
@@ -13643,7 +13643,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-sv-se-nst-medium.tar.gz
       sha256: 0d6cf357d55860162bf1bdd76bd4f0c396ff547e941bfb25df799d6f1866fda9
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-uk-lada-x-low
   overrides:
     parameters:
@@ -13653,7 +13653,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-uk-lada-x-low.tar.gz
       sha256: ff50acbd659fc226b57632acb1cee310009821ec44b4bc517effdd9827d8296b
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-vi-25hours-single-low
   overrides:
     parameters:
@@ -13663,7 +13663,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-vi-25hours-single-low.tar.gz
       sha256: 97e34d1b69dc7000a4ec3269f84339ed35905b3c9800a63da5d39b7649e4a666
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-vi-vivos-x-low
   overrides:
     parameters:
@@ -13673,7 +13673,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-vi-vivos-x-low.tar.gz
       sha256: 07cd4ca6438ec224012f7033eec1a2038724b78e4aa2bedf85f756656b52e1a7
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-zh-cn-huayan-x-low
   overrides:
     parameters:
@@ -13683,7 +13683,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-zh-cn-huayan-x-low.tar.gz
       sha256: 609db0da8ee75beb2f17ce53c55abdbc8c0e04135482efedf1798b1938bf90fa
 - !!merge <<: *piper
-  url: github:mudler/LocalAI/gallery/piper.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/piper.yaml@master
   name: voice-zh_CN-huayan-medium
   overrides:
     parameters:
@@ -13693,7 +13693,7 @@
       uri: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-zh_CN-huayan-medium.tar.gz
       sha256: 0299a5e7f481ba853404e9f0e1515a94d5409585d76963fa4d30c64bd630aa99
 - name: "nomic-embed-text-v1.5"
-  url: github:mudler/LocalAI/gallery/virtual.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master
   urls:
     - https://huggingface.co/nomic-ai/nomic-embed-text-v1.5
     - https://huggingface.co/mradermacher/nomic-embed-text-v1.5-GGUF
@@ -13712,7 +13712,7 @@
 - &silero
   name: "silero-vad"
   icon: https://github.com/snakers4/silero-models/raw/master/files/silero_logo.jpg
-  url: github:mudler/LocalAI/gallery/virtual.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master
   urls:
     - https://github.com/snakers4/silero-vad
     - https://huggingface.co/onnx-community/silero-vad
@@ -13749,7 +13749,7 @@
 - &bark
   name: "bark-cpp"
   icon: https://avatars.githubusercontent.com/u/99442120
-  url: github:mudler/LocalAI/gallery/virtual.yaml@master
+  url: github:BlackRoad-OS/LocalAI/gallery/virtual.yaml@master
   license: mit
   urls:
     - https://huggingface.co/suno/bark

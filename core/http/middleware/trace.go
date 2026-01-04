@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mudler/LocalAI/core/application"
+	"github.com/BlackRoad-OS/LocalAI/core/application"
 	"github.com/mudler/xlog"
 )
 
