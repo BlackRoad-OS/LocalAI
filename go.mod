@@ -1,4 +1,4 @@
-module github.com/mudler/LocalAI
+module github.com/BlackRoad-OS/LocalAI
 
 go 1.24.4
 

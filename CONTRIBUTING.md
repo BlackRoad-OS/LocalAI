@@ -25,7 +25,7 @@ Thank you for your interest in contributing to LocalAI! We appreciate your time 
 
 ### Setting up the Development Environment and running localAI in the local environment
 
-1. Clone the repository: `git clone https://github.com/go-skynet/LocalAI.git`
+1. Clone the repository: `git clone https://github.com/BlackRoad-OS/LocalAI.git`
 2. Navigate to the project directory: `cd LocalAI`
 3. Install the required dependencies ( see https://localai.io/basics/build/#build-localai-locally )
 4. Build LocalAI: `make build`
@@ -38,7 +38,7 @@ We welcome contributions from everyone! To get started, follow these steps:
 
 ### Submitting an Issue
 
-If you find a bug, have a feature request, or encounter any issues, please check the [issue tracker](https://github.com/go-skynet/LocalAI/issues) to see if a similar issue has already been reported. If not, feel free to [create a new issue](https://github.com/go-skynet/LocalAI/issues/new) and provide as much detail as possible.
+If you find a bug, have a feature request, or encounter any issues, please check the [issue tracker](https://github.com/BlackRoad-OS/LocalAI/issues) to see if a similar issue has already been reported. If not, feel free to [create a new issue](https://github.com/BlackRoad-OS/LocalAI/issues/new) and provide as much detail as possible.
 
 ### Creating a Pull Request (PR)
 
@@ -76,10 +76,10 @@ LOCALAI_IMAGE_TAG=test LOCALAI_IMAGE=local-ai-aio make run-e2e-aio
 
 ## Documentation
 
-We are welcome the contribution of the documents, please open new PR or create a new issue. The documentation is available under `docs/` https://github.com/mudler/LocalAI/tree/master/docs
+We are welcome the contribution of the documents, please open new PR or create a new issue. The documentation is available under `docs/` https://github.com/BlackRoad-OS/LocalAI/tree/master/docs
 
 ## Community and Communication
 
 - You can reach out via the Github issue tracker.
-- Open a new discussion at [Discussion](https://github.com/go-skynet/LocalAI/discussions)
+- Open a new discussion at [Discussion](https://github.com/BlackRoad-OS/LocalAI/discussions)
 - Join the Discord channel [Discord](https://discord.gg/uJAeKSAGDy)
